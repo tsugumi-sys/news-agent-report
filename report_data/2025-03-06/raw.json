@@ -1,0 +1,247 @@
+[
+	{
+		"url": "https://news.yahoo.co.jp/articles/f23de194070b73e8ac951ff559f478750ffbed7b?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "産婦人科のサービス",
+				"demand_resource": "出産ケア",
+				"balance_description": "イスラエルで出産が急増しており、産婦人科の需要が増大して病棟が満床の状態である。"
+			},
+			"related_industries": { "industries": [] },
+			"news_basic_information": {
+				"title": "戦争中なのに産婦人科がいっぱい…イスラエルでベビーブーム",
+				"published_date": "2025-03-06 09:21:00 +0900 (JST)"
+			},
+			"company_names": { "items": ["レウミットヘルスケア"] },
+			"countries_positive_negative": {
+				"items": [
+					{
+						"target": "イスラエル",
+						"impact": 1,
+						"reason": "戦争中にもかかわらず、イスラエルでは出産が急増し、人口増加の傾向が見られるため。"
+					}
+				]
+			},
+			"industries_positive_negative": { "items": [] },
+			"companies_positive_negative": {
+				"items": [
+					{
+						"target": "レウミットヘルスケア",
+						"impact": 1,
+						"reason": "出産急増により、医療業界においてレウミットヘルスケアのような企業はサービス需要が増加するため。"
+					}
+				]
+			}
+		}
+	},
+	{
+		"url": "https://news.yahoo.co.jp/articles/fe9f8a25f25e575e143c926236b0f32d91810533?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "米国での生産能力",
+				"demand_resource": "自動車",
+				"balance_description": "EUからの輸入品に高関税が課せられる場合、ボルボは米国内での自動車生産を大幅に拡大し、現地供給能力を強化することで、関税の影響を緩和しようとしている。"
+			},
+			"related_industries": { "industries": ["自動車(世界)"] },
+			"news_basic_information": {
+				"title": "ボルボ、米国での車増産を視野に　EU関税、CEO「非常に懸念」",
+				"published_date": "2025-03-06 08:41:00 +0900 (JST)"
+			},
+			"company_names": { "items": ["ボルボ・カー"] },
+			"countries_positive_negative": {
+				"items": [
+					{
+						"target": "米国",
+						"impact": 0,
+						"reason": "米国がEUからの輸入品に高関税を課すことで、ボルボが米国内での生産を増加させるとしているため、一時的には現地の生産業にプラスとなる可能性がある。ただし、EUとの貿易関係が悪化すれば経済全体には懸念材料となる可能性がある。"
+					},
+					{
+						"target": "EU",
+						"impact": -1,
+						"reason": "EUから米国への輸出に対して高関税が課されることで、輸出に依存している企業にとっては大きなマイナスとなりうる。"
+					}
+				]
+			},
+			"industries_positive_negative": {
+				"items": [
+					{
+						"target": "自動車(世界)",
+						"impact": -1,
+						"reason": "自動車の輸出入が関税の影響を受けることで、グローバルなサプライチェーンに混乱が生じる可能性があるため。"
+					}
+				]
+			},
+			"companies_positive_negative": {
+				"items": [
+					{
+						"target": "ボルボ・カー",
+						"impact": -1,
+						"reason": "EUから米国への高関税が導入されると、輸出コストが上昇し競争力が低下する可能性がある。それに対抗するために、米国での生産を増やす必要があり、コストや生産体制の見直しが求められる。"
+					}
+				]
+			}
+		}
+	},
+	{
+		"url": "https://news.yahoo.co.jp/articles/e3e35e2c651f87d45a0b2ae707c482e03882d3e5?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "貴重な発掘遺品",
+				"demand_resource": "文化的理解と歴史",
+				"balance_description": "古代から中世にかけての女性の役割に関する新たな発見が続々と報告されており、性役割の定説が覆されつつある。これにより、文化的理解と歴史教育の需要が高まっている。"
+			},
+			"related_industries": { "industries": [] },
+			"news_basic_information": {
+				"title": "「実は女性戦士だった」、古代中世の性役割の定説覆す発見が続々、歴史観さえ変える可能性（ナショナル ジオグラフィック日本版） - Yahoo!ニュース",
+				"published_date": "2025-03-04 17:49:00 +0000 (JST)"
+			},
+			"company_names": { "items": [] },
+			"countries_positive_negative": {
+				"items": [
+					{
+						"target": "ハンガリー",
+						"impact": 1,
+						"reason": "ハンガリーのサーレトゥドバリ村での発掘調査により、性別を再考させる重要な考古学的発見が行われた。これにより、ハンガリーが歴史的研究の注目を集めている。"
+					},
+					{
+						"target": "ペルー",
+						"impact": 1,
+						"reason": "ペルーの9000年前の遺跡で、女性が戦士としての可能性を示す発見がされ、ペルーの歴史が再評価されている。"
+					},
+					{
+						"target": "英国",
+						"impact": 1,
+						"reason": "英国のシリー諸島での遺跡発掘により、剣と盾を持った女性が発見され、英国の歴史観に新たな視点が加わった。"
+					}
+				]
+			},
+			"industries_positive_negative": { "items": [] },
+			"companies_positive_negative": { "items": [] }
+		}
+	},
+	{
+		"url": "https://news.yahoo.co.jp/articles/b9eeb4e0963cf722c57c1cb4b16d1f18019545c8?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "バッテリー",
+				"demand_resource": "電動SUV車",
+				"balance_description": "スズキの新型BEVであるeビターラの投入により、世界市場での電動SUV車の需要が増加しそうだが、バッテリー資源の供給が追いつくかが鍵となる可能性がある。"
+			},
+			"related_industries": {
+				"industries": ["自動車(世界)", "次世代自動車", "電動化自動車"]
+			},
+			"news_basic_information": {
+				"title": "スズキが「新型コンパクトSUV」を日本発売へ！",
+				"published_date": "2025-03-06 08:20:00 +0900 (JST)"
+			},
+			"company_names": { "items": ["スズキ"] },
+			"countries_positive_negative": { "items": [] },
+			"industries_positive_negative": { "items": [] },
+			"companies_positive_negative": {
+				"items": [
+					{
+						"target": "スズキ",
+						"impact": 1,
+						"reason": "スズキが新型コンパクトSUVであるeビターラを日本で発売することで、電動車市場におけるスズキのポジションが強化されると考えられるから。"
+					}
+				]
+			}
+		}
+	},
+	{
+		"url": "https://news.yahoo.co.jp/articles/c5b4a603f6026e7a53c4a9a4f5b99d6e86380ee1?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "",
+				"demand_resource": "",
+				"balance_description": ""
+			},
+			"related_industries": { "industries": [] },
+			"news_basic_information": {
+				"title": "謎の深海生物「ブタ尻虫」がSNSで話題に、いったい何者？ 大きさはヘーゼルナッツほど",
+				"published_date": "2025-03-03 18:12:00 +0000 (UTC)"
+			},
+			"company_names": { "items": [] },
+			"countries_positive_negative": { "items": [] },
+			"industries_positive_negative": { "items": [] },
+			"companies_positive_negative": { "items": [] }
+		}
+	},
+	{
+		"url": "https://news.yahoo.co.jp/articles/9847974b9fdb067ae328e32b45787d805d8cfdca?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "表示速度",
+				"demand_resource": "Webサイトやアプリ利用",
+				"balance_description": "表示速度が遅いと、多くの利用者がWebサイトやアプリを離脱する傾向があり、これがユーザー体験の劣化につながる。"
+			},
+			"related_industries": { "industries": ["EC", "ITサービス"] },
+			"news_basic_information": {
+				"title": "表示速度の遅さを理由に約5割が購買を断念、約7割が離脱【消費者調査まとめ】",
+				"published_date": "2025-03-06 07:01:00 +0900 (JST)"
+			},
+			"company_names": { "items": ["Repro"] },
+			"countries_positive_negative": { "items": [] },
+			"industries_positive_negative": {
+				"items": [
+					{
+						"target": "EC",
+						"impact": -1,
+						"reason": "表示速度の遅さが原因で、5割のユーザーが購買を断念し、7割がサイトを離脱しているため、EC業界における売上機会の損失を示唆している。"
+					},
+					{
+						"target": "ITサービス",
+						"impact": 1,
+						"reason": "Webサイトやアプリの表示速度を改善するサービスや技術に対する需要が高まる可能性があるため。"
+					}
+				]
+			},
+			"companies_positive_negative": {
+				"items": [
+					{
+						"target": "Repro",
+						"impact": 0,
+						"reason": "Reproが調査を実施したが、特定のプラスやマイナスの影響は言及されていない。"
+					}
+				]
+			}
+		}
+	},
+	{
+		"url": "https://news.yahoo.co.jp/articles/652684412fd08dcf69273ee0795462c76aab50a1?source=rss",
+		"knowledges": {
+			"supply_and_demand_balance": {
+				"supply_resource": "ポータブルゲーミングPC",
+				"demand_resource": "ゲーミングデバイス",
+				"balance_description": "モジュラー機構を備えた「AYANEO3」の登場により、カスタム可能なゲーミングデバイスの需要が増加する可能性がある。"
+			},
+			"related_industries": {
+				"industries": ["ITサービス", "ソフトウェア", "エアコン"]
+			},
+			"news_basic_information": {
+				"title": "モジュラー機構でスティックやボタン配置がカスタムできるポータブルゲーミングPC「AYANEO3」、格ゲー向け6ボタンやタッチパッドも（AKIBA PC Hotline!）",
+				"published_date": "2025-03-06 07:07:00 +0900 (JST)"
+			},
+			"company_names": { "items": ["AYANEO", "株式会社天空"] },
+			"countries_positive_negative": { "items": [] },
+			"industries_positive_negative": {
+				"items": [
+					{
+						"target": "ゲーミングPC",
+						"impact": 1,
+						"reason": "「AYANEO3」のようなカスタマイズ性の高い新型デバイスの登場により、ゲーミングPC市場の活性化が期待される。"
+					}
+				]
+			},
+			"companies_positive_negative": {
+				"items": [
+					{
+						"target": "AYANEO",
+						"impact": 1,
+						"reason": "新製品「AYANEO3」の発表により、顧客の注目を集める可能性が高まり、売上の増加が見込まれる。"
+					}
+				]
+			}
+		}
+	}
+]

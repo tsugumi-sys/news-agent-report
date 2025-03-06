@@ -1,0 +1,31 @@
+{
+	"company_names": {
+		"レウミットヘルスケア": 1,
+		"ボルボ・カー": 1,
+		"スズキ": 1,
+		"Repro": 1,
+		"AYANEO": 1,
+		"株式会社天空": 1
+	},
+	"countries_positive_negative": {
+		"イスラエル": { "positive": 1, "negative": 0, "neutoral": 0 },
+		"米国": { "positive": 0, "negative": 0, "neutoral": 1 },
+		"EU": { "positive": 0, "negative": 1, "neutoral": 0 },
+		"ハンガリー": { "positive": 1, "negative": 0, "neutoral": 0 },
+		"ペルー": { "positive": 1, "negative": 0, "neutoral": 0 },
+		"英国": { "positive": 1, "negative": 0, "neutoral": 0 }
+	},
+	"industries_positive_negative": {
+		"自動車(世界)": { "positive": 0, "negative": 1, "neutoral": 0 },
+		"EC": { "positive": 0, "negative": 1, "neutoral": 0 },
+		"ITサービス": { "positive": 1, "negative": 0, "neutoral": 0 },
+		"ゲーミングPC": { "positive": 1, "negative": 0, "neutoral": 0 }
+	},
+	"companies_positive_negative": {
+		"レウミットヘルスケア": { "positive": 1, "negative": 0, "neutoral": 0 },
+		"ボルボ・カー": { "positive": 0, "negative": 1, "neutoral": 0 },
+		"スズキ": { "positive": 1, "negative": 0, "neutoral": 0 },
+		"Repro": { "positive": 0, "negative": 0, "neutoral": 1 },
+		"AYANEO": { "positive": 1, "negative": 0, "neutoral": 0 }
+	}
+}
