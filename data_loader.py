@@ -29,9 +29,12 @@ class DataLoader:
         """Load JSON data and return dictionary of each date's data."""
         report_data = defaultdict(dict)
         for date in self.dates:
-            with open(
-                f"{self.directory_path}/{date}/news.json", "r", encoding="utf-8"
-            ) as f:
-                report_news_data = json.load(f)
-            report_data[date]["news"] = report_news_data
+            files = {
+                "news": f"{self.directory_path}/{date}/news.json",
+                "analysis": f"{self.directory_path}/{date}/analysis.json",
+            }
+            for key, file_path in files.items():
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                report_data[date][key] = data
         return report_data

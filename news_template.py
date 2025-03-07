@@ -1,4 +1,5 @@
 import streamlit as st
+from chart_template import ChartFactory
 
 
 class NewsReportPage:
@@ -14,13 +15,24 @@ class NewsReportPage:
 
 
 def create_news_report_page(date, report_data) -> st.Page:
-    """Creates a Streamlit Page instance for the news report."""
+    """Creates a Streamlit Page instance for the news report.
+
+    Args:
+        report_data: { 'news': {}, 'analysis': {}}
+    """
 
     def news_page():
-        st.title(f"Report at {date}")
-        # render news data
-        for item in report_data["news"]:
-            container = st.container()
+        st.header(f"Report at {date}")
+
+        analysis_data = report_data["analysis"]
+        for key, data in analysis_data.items():
+            chart = ChartFactory.create_chart(key, data)
+            chart.render()
+
+        st.subheader("News List")
+        news_data = report_data["news"]
+        for item in news_data:
+            container = st.container(border=True)
             news_info = item["knowledges"]["news_basic_information"]
             supply_demand = item["knowledges"]["supply_and_demand_balance"]
             countries_impact = item["knowledges"]["countries_positive_negative"][
