@@ -1,6 +1,18 @@
 import streamlit as st
 
 
+class NewsReportPage:
+    """Class representing a single news report page."""
+
+    def __init__(self, date, report_data):
+        self.date = date
+        self.report_data = report_data
+
+    def render(self) -> st.Page:
+        """Render the news report page."""
+        return create_news_report_page(self.date, self.report_data)
+
+
 def create_news_report_page(date, report_data) -> st.Page:
     """Creates a Streamlit Page instance for the news report."""
 

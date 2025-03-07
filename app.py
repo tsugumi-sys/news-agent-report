@@ -1,18 +1,6 @@
 import streamlit as st
-from news_template import create_news_report_page
+from news_template import NewsReportPage
 from data_loader import DataLoader
-
-
-class NewsReportPage:
-    """Class representing a single news report page."""
-
-    def __init__(self, date, report_data):
-        self.date = date
-        self.report_data = report_data
-
-    def render(self) -> st.Page:
-        """Render the news report page."""
-        return create_news_report_page(self.date, self.report_data)
 
 
 class SummaryPage:
