@@ -1,27 +1,52 @@
-from collections import defaultdict
 import streamlit as st
-import json
-from news_template import news_container
+from news_template import create_news_report_page
+from data_loader import DataLoader
 
-# Load JSON data
 
-dates = ["2025-03-06"]
-report_data = defaultdict(dict)
-for date in dates:
-    with open("report_data/2025-03-06/raw.json", "r", encoding="utf-8") as f:
-        report_raw_data = json.load(f)
-    report_data[date]["raw"] = report_raw_data
+class NewsReportPage:
+    """Class representing a single news report page."""
+
+    def __init__(self, date, report_data):
+        self.date = date
+        self.report_data = report_data
+
+    def render(self) -> st.Page:
+        """Render the news report page."""
+        return create_news_report_page(self.date, self.report_data)
+
+
+class SummaryPage:
+    """Class representing the summary of all news reports."""
+
+    def __init__(self, report_pages: list[st.Page]):
+        self.report_pages = report_pages
+
+    def render(self) -> st.Page:
+        """Render the summary page listing all report pages."""
+
+        def page():
+            st.header("All Reports")
+            for report_key in sorted(self.report_pages.keys()):
+                st.page_link(self.report_pages[report_key])
+
+        return st.Page(page, title="Summary", default=True)
+
+
+# Initialize DataLoader and PageManager
+report_data_dir = "./report_data"
+data_loader = DataLoader(report_data_dir)
+report_data = data_loader.load_data()
 
 report_pages = {}
 for date, data in report_data.items():
-    report_pages[date] = lambda: news_container(data["raw"])
+    news_page = NewsReportPage(date, data)
+    report_pages[date] = news_page.render()
 
-st.title("News Impact Analysis")
-
-navigations = []
-
-for title, page_func in report_pages.items():
-    navigations.append(st.Page(page_func, title=title, icon=":material/favorite:"))
+summary_page = SummaryPage(report_pages)
+navigations = [summary_page.render()]
+for page in report_pages.values():
+    navigations.append(page)
 
 pg = st.navigation(navigations)
+
 pg.run()
