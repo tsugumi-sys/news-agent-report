@@ -47,7 +47,6 @@ class CountriesPositiveNegativeChart(ChartContainer):
     # 	"英国": { "positive": 1, "negative": 0, "neutral": 0 }
     # }
     def render(self):
-        print(self.data)
         container = st.container(border=True)
         container.subheader("📊 国ごとの影響度")
         data = {

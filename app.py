@@ -21,7 +21,7 @@ class SummaryPage:
 
 
 # Initialize DataLoader and PageManager
-# @st.cache_data
+@st.cache_data
 def report_data():
     report_data_dir = "./report_data"
     data_loader = DataLoader(report_data_dir)
