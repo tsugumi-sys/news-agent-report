@@ -1,0 +1,4168 @@
+{
+  "company_names": {
+    "トランプ政権": 5,
+    "コメリカ・バンク": 1,
+    "ゴールドマン・サックス・グループ": 1,
+    "ウォルト・ディズニー": 1,
+    "アップル": 2,
+    "HP": 1,
+    "アルコア": 1,
+    "日本原水爆被害者団体協議会": 2,
+    "ペンシルベニア州立大学": 1,
+    "サンワサプライ": 1,
+    "米国産乳製品": 1,
+    "カナダ乳製品": 1,
+    "木材業界": 1,
+    "韓国政府": 3,
+    "ソウル西部地裁": 1,
+    "公職犯罪捜査処": 1,
+    "社会問題関連団体": 1,
+    "日本空港ビルデング": 1,
+    "東京国際空港ターミナル": 1,
+    "愛知大学": 1,
+    "宇都宮市": 1,
+    "小松市": 1,
+    "タックスナップ": 1,
+    "ahamo": 1,
+    "povo": 1,
+    "LINEMO": 1,
+    "Intuitive Machines": 2,
+    "NASA": 4,
+    "Firefly Aerospace": 1,
+    "Lunar Outpost": 2,
+    "ヤマハ": 1,
+    "テザー・ホールディングス": 1,
+    "カルダノ": 1,
+    "XRP": 2,
+    "ソラナ": 1,
+    "ビットコイン": 2,
+    "イーサリアム": 1,
+    "ハーマンインターナショナル": 1,
+    "Xiaomi": 2,
+    "オーディオテクニカ": 1,
+    "Anker": 2,
+    "東芝エルイートレーディング": 1,
+    "ソニー": 3,
+    "Apple Inc.": 1,
+    "自民党": 1,
+    "日本政府": 1,
+    "ヨドバシカメラ": 1,
+    "石井スポーツ": 1,
+    "アートスポーツ": 1,
+    "ビットゴー": 1,
+    "J:COM株式会社": 1,
+    "総務省": 1,
+    "日本被団協": 1,
+    "国連": 2,
+    "各国政府": 1,
+    "コスモ石油": 1,
+    "日揮ホールディングス": 1,
+    "レボインターナショナル": 1,
+    "サファイアスカイエナジー": 1,
+    "日本年金機構": 1,
+    "スウェーデンのヨーテボリ大学": 1,
+    "Nothing": 1,
+    "インディアナ州ヴァルパライソ大学": 1,
+    "マセラティ": 1,
+    "ホンダ": 4,
+    "無し": 1,
+    "スタティスタ": 1,
+    "ベス・イスラエル・ディーコネス医療センター": 1,
+    "ナショナル ジオグラフィック日本版": 2,
+    "不明": 1,
+    "ヨシダ": 1,
+    "任天堂": 1,
+    "イーロン・マスク": 3,
+    "S&Pダウ・ジョーンズ・インデックス": 1,
+    "eMAXIS Slim米国株式（S&P500）": 1,
+    "講談社": 6,
+    "大阪公立大学": 1,
+    "Apple": 4,
+    "Yahoo! JAPAN": 6,
+    "Nate From the Internet": 1,
+    "カズ浪": 1,
+    "ChatGPT": 1,
+    "トヨタ自動車": 3,
+    "欧州中央銀行(ECB)": 2,
+    "ユーロ圏企業": 1,
+    "製造業企業": 1,
+    "エヌビディア": 2,
+    "テスラ": 5,
+    "マイクロソフト": 1,
+    "アルファベット": 1,
+    "メタ・プラットフォームズ": 1,
+    "アマゾン・ドット・コム": 1,
+    "テレソン小児研究所": 1,
+    "オーストラリア国立大学": 1,
+    "筑波山塊花崗岩採掘業者": 1,
+    "建材メーカー": 1,
+    "観光業者": 2,
+    "字節跳動（バイトダンス）": 1,
+    "Noend": 1,
+    "楽天": 1,
+    "Qoo10": 1,
+    "オン・セミコンダクター": 1,
+    "アレグロ・マイクロシステムズ": 1,
+    "サンケン電気": 1,
+    "Bloomberg": 1,
+    "ペロヴォ洞窟探検隊（PST）": 1,
+    "現代ビジネス": 6,
+    "日産自動車": 1,
+    "ナスダック": 1,
+    "NYSE": 1,
+    "CBOE": 1,
+    "韓国ギャラップ": 1,
+    "共に民主党": 2,
+    "国民の力": 1,
+    "エムブレイン・パブリック": 1,
+    "Kスタットリサーチ": 1,
+    "コリアリサーチ": 1,
+    "韓国リサーチ": 1,
+    "筑波大学": 2,
+    "北朝鮮": 1,
+    "金正恩": 1,
+    "キヤノン": 1,
+    "OMデジタルソリューションズ": 1,
+    "ニコン": 1,
+    "富士フイルム": 1,
+    "韓国疾病管理庁": 1,
+    "尹錫悦大統領": 2,
+    "韓国裁判所": 1,
+    "広島ドラゴンフライズ": 1,
+    "琉球ゴールデンキングス": 1,
+    "桃園パウイアンパイロッツ": 1,
+    "ニュータイペイキングス": 1,
+    "シャオミ": 1,
+    "FOSMET": 1,
+    "美容鍼灸あん摩マッサージ指圧師": 1,
+    "ワールド・リバティー・ファイナンシャル（WLFT）": 1,
+    "SpaceX": 3,
+    "メルク（Merck）": 1,
+    "ファイザー（Pfizer）": 1,
+    "アストラゼネカ（AstraZeneca）": 1,
+    "楽天モバイル": 2,
+    "トルコ海洋調査機関": 1,
+    "海運会社": 1,
+    "欧州中央銀行（ECB）": 1,
+    "ダイモン": 3,
+    "Nokia": 1,
+    "ファイナンシャルフィールド": 3,
+    "ケイワークス": 1,
+    "KODANSHA": 1,
+    "MONEY PLUS": 1,
+    "JR東日本": 1,
+    "中国政府": 2,
+    "カナダ政府": 2,
+    "エアバス": 1,
+    "ロールスロイス": 1,
+    "ラインメタル": 1,
+    "サーブ": 1,
+    "FRB": 2,
+    "連邦公開市場委員会（FOMC）": 1,
+    "ドコモ": 1,
+    "サムスン": 1,
+    "ポーランド政府": 1,
+    "NATO": 1,
+    "EU": 1,
+    "ウクライナ": 2,
+    "ウクライナ政府": 3,
+    "米国政府": 4,
+    "ラトビア中銀": 1,
+    "株式会社LabBase": 1,
+    "米連邦準備制度理事会": 1,
+    "スタイフェル・ニコラウス": 1,
+    "ウェルズ・ファーゴ": 1,
+    "ブルームバーグ": 2,
+    "東京メトロ": 1,
+    "キオクシア": 1,
+    "ニッポン放送": 1,
+    "KADOKAWA": 1,
+    "SWALLOW": 1,
+    "毎日ドクター": 1,
+    "竜操整形外科病院": 1,
+    "ダイエー": 1,
+    "アステラス製薬": 1,
+    "武田薬品工業": 1,
+    "日産": 2,
+    "トヨタ": 2,
+    "スバル": 1,
+    "マツダ": 2,
+    "三菱": 1,
+    "久能祐子": 1,
+    "3COINS": 1,
+    "ポーランド軍": 1,
+    "国防省": 1,
+    "防衛企業": 1,
+    "防衛関連企業": 1,
+    "xAI": 1,
+    "GLOTRENDS": 1,
+    "PS5関連製品メーカー": 1,
+    "ヒートシンク製造メーカー": 1,
+    "英国南極調査局（BAS）": 1,
+    "フレンズ・オブ・ビッグ・ベア・バレー（FOBBV）": 1,
+    "京王グリーンサービス": 1,
+    "周防大島花木生産組合": 1,
+    "東京ディズニーリゾート": 1,
+    "オリエンタルランド": 1,
+    "尹大統領": 1,
+    "ソウル中央地裁": 2,
+    "検察": 2,
+    "憲法裁判所": 1,
+    "かつ好": 1,
+    "ドイツ製造業": 1,
+    "キリスト教民主同盟（CDU）": 1,
+    "ユーシーカード": 1,
+    "ロシア政府": 1,
+    "大エジプト博物館": 1,
+    "マルコ・ルビオ": 1,
+    "トランプ大統領": 1,
+    "株式会社帝国データバンク": 2,
+    "日本冷凍食品協会": 1,
+    "不動産会社": 1,
+    "管理会社": 1,
+    "ウクライナ軍": 1,
+    "ロシア軍": 1,
+    "ミルズインターナショナル": 1,
+    "プラス・ウルトラ航空": 1,
+    "イギリス国防省": 1,
+    "イギリス海軍": 1,
+    "マクサー・テクノロジーズ": 1,
+    "成田エアポートレストハウス": 1,
+    "ユニバーサル・ミュージック": 1,
+    "サルヴァトーレ・フェラガモ": 1,
+    "水産関連企業": 1,
+    "生物研究機関": 1,
+    "Perplexity": 1,
+    "ドトールコーヒーショップ": 1,
+    "UCC上島珈琲": 1,
+    "セブン-イレブン": 1,
+    "ローソン": 1,
+    "ファミリーマート": 1,
+    "オーガニア": 1,
+    "イロハニ": 1,
+    "Lenovo": 1,
+    "Aurzen": 1,
+    "HMD": 1,
+    "Google": 3,
+    "Samsung": 1,
+    "熊本大学国際先端医学研究機構": 1,
+    "ハックマンさん": 1,
+    "アラカワさん": 1,
+    "栄セントラル耳鼻科": 1,
+    "厚生労働省": 1,
+    "WHO": 1,
+    "セリーヌ・ディオン": 1,
+    "ファイアフライ・エアロスペース": 1,
+    "インテュイティブ・マシーンズ": 1,
+    "アイスペース": 1,
+    "大邱市の消防署": 1,
+    "地元猟師": 1,
+    "ロシア連邦": 1,
+    "アメリカ合衆国": 2,
+    "三井物産": 1,
+    "伊藤忠商事": 1,
+    "東京海上ホールディングス": 1,
+    "インテュイティブ・マシンズ": 2,
+    "国土交通省": 1,
+    "自動車ディーラー": 1,
+    "整備工場": 1,
+    "モンベル": 1,
+    "美容品店": 1,
+    "THE GOLD ONLINE": 1,
+    "ドイツ政府": 1,
+    "ベアリングス": 1,
+    "ジェフリーズ": 1,
+    "東北大学": 1,
+    "理化学研究所": 1,
+    "産業技術総合研究所": 2,
+    "東京大学": 1,
+    "スマホライフPLUS": 1,
+    "Yahoo!ニュース": 1,
+    "ドン・キホーテ": 1,
+    "ベッセント財務長官": 1,
+    "ビットコイン（BTC）": 1,
+    "イーサリアム（ETH）": 1,
+    "ソラナ（SOL）": 1,
+    "カルダノ（ADA）": 1,
+    "日本銀行": 1,
+    "移民政策研究所": 1,
+    "サムスン電子": 1,
+    "KDDI": 1,
+    "ソフトバンク": 1,
+    "Qualcomm": 1,
+    "ZTE": 1,
+    "落合陽一": 1,
+    "チャイルド・サポート": 1,
+    "法律事務所": 1,
+    "米農務省": 1,
+    "SNIPO": 1,
+    "ラボバンク": 1,
+    "フォルクスワーゲン": 1,
+    "スズキ": 2,
+    "フォールド・ホールディングス": 1,
+    "ロイター": 1,
+    "フォックスビジネスニュース": 1,
+    "キャデラック": 1,
+    "トランプ": 1,
+    "テレグラム": 1,
+    "バイナンス": 1,
+    "BOYNEXTDOOR": 1,
+    "高位公職者犯罪捜査処": 1,
+    "日本生命保険": 1,
+    "インダスインド銀行": 1,
+    "リライアンス・ニッポンライフ・インシュアランス": 1,
+    "フェラーリ": 1,
+    "RMサザビーズ": 1,
+    "米連邦準備制度理事会（ＦＲＢ）": 1,
+    "Bappa Shota": 1,
+    "島津製作所": 1,
+    "聖隷浜松病院": 1,
+    "ペット関連企業": 1,
+    "動物愛護団体": 1,
+    "本田技研工業": 1,
+    "ホンダモビリティランド株式会社": 1,
+    "慶應義塾大学": 1,
+    "名古屋工業大学": 1,
+    "レストアビジョン": 1,
+    "コインベース": 2,
+    "日本赤十字社愛知医療センター名古屋第二病院": 1,
+    "愛知県病院協会": 1,
+    "習近平政権": 1,
+    "暫定政権": 1,
+    "旧アサド政権支持武装集団": 1,
+    "ココネ": 1,
+    "はぐくみプラス": 1,
+    "SUPER STUDIO": 1,
+    "CoinDesk JAPAN": 1,
+    "OSLグループ": 1,
+    "PwCコンサルティング": 1,
+    "政府": 1,
+    "JR西日本": 1,
+    "鉄道・運輸機構": 1,
+    "エムケーファーム": 1,
+    "氣まぐれ茶屋ちえこ": 1,
+    "地質調査会社": 1,
+    "建設会社": 1,
+    "石材メーカー": 1,
+    "マテリアルサイエンス企業": 1,
+    "SoftBank": 1,
+    "ワサビ": 1,
+    "メルカリ": 1,
+    "ロシア国営石油会社（ロスネフチ）": 1,
+    "シェル": 1,
+    "BP": 1,
+    "エクソンモービル": 1,
+    "トランプ政権顧問": 1,
+    "名古屋高速道路公社": 1,
+    "NEXCO中日本": 1,
+    "AMD": 1,
+    "Sapphire": 1,
+    "PowerColor": 1,
+    "ASRock": 1,
+    "GIGABYTE": 1,
+    "玄人志向": 1,
+    "エルミタージュ秋葉原": 1,
+    "コーエーテクモゲームス": 1,
+    "Ubisoft": 1,
+    "カナダの木材製造業者": 1,
+    "米国の乳製品製造業者": 1,
+    "NEXCO": 1,
+    "高速道路会社": 1,
+    "ガソリンスタンド運営企業": 1,
+    "中央発條": 1,
+    "豊田自動織機": 1,
+    "リップル": 1,
+    "クラーケン": 1,
+    "ジェミナイ": 1,
+    "チェーンリンク": 1,
+    "ロビンフッド": 1,
+    "日本航空（JAL）": 1,
+    "デルタ航空": 1,
+    "気候科学者": 1,
+    "企業": 1,
+    "蔦屋重三郎": 1,
+    "大学・研究機関": 1,
+    "ワイヤーカード": 1,
+    "ロンドン警視庁": 1,
+    "ブルガリア人コミュニティー団体": 1,
+    "文藝春秋": 1,
+    "米国企業": 1,
+    "インド企業": 1
+  },
+  "countries_positive_negative": {
+    "アメリカ": {
+      "positive": 51,
+      "negative": 27,
+      "neutral": 14
+    },
+    "日本": {
+      "positive": 110,
+      "negative": 42,
+      "neutral": 16
+    },
+    "ロシア": {
+      "positive": 4,
+      "negative": 6,
+      "neutral": 1
+    },
+    "火星": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カナダ": {
+      "positive": 1,
+      "negative": 6,
+      "neutral": 0
+    },
+    "アメリカ合衆国": {
+      "positive": 7,
+      "negative": 0,
+      "neutral": 1
+    },
+    "韓国": {
+      "positive": 6,
+      "negative": 11,
+      "neutral": 1
+    },
+    "米国": {
+      "positive": 8,
+      "negative": 6,
+      "neutral": 0
+    },
+    "インド": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国": {
+      "positive": 5,
+      "negative": 6,
+      "neutral": 1
+    },
+    "アジア諸国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "グローバル暗号資産市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "核保有国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "環境": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スウェーデン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イギリス": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 2
+    },
+    "その他の国々": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "欧州": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "科学技術": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "その他の国": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ユーロ圏": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 0
+    },
+    "ドイツ": {
+      "positive": 1,
+      "negative": 4,
+      "neutral": 0
+    },
+    "フランス": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "メキシコ": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "オーストラリア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "国際市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヨーロッパ": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ウクライナ": {
+      "positive": 3,
+      "negative": 4,
+      "neutral": 0
+    },
+    "海外": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3
+    },
+    "国外": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "北朝鮮": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "台湾": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "美国": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "トルコ": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 1
+    },
+    "EU諸国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "シリア": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "国際社会": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ポーランド": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "欧州市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ラトビア": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "日本の電動バイク市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本の研究者全体に占める女性比率": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "女性研究者の活躍促進に関連する社会的ニーズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィンランド": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "リトアニア": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "南ジョージア島": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "漁業関連": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "カリフォルニア州": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エジプト": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スペイン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ベネズエラ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "国際": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ニューメキシコ州": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "世界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ペンシルベニア州": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "他国": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "オランダ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イラン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イタリア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ほかの国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アフガニスタン": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "周辺国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "タイ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "宇宙産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "天文学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "犬の種類と能力に関する理解": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペット業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "アジア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "加納国": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "EU": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "全球": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ゲーム産業（特にオープンワールドジャンル）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "リテール業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "世界全体": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "化石燃料を主なエネルギー源とする国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ブルガリア": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  "industries_positive_negative": {
+    "製造業": {
+      "positive": 1,
+      "negative": 4,
+      "neutral": 3
+    },
+    "医療": {
+      "positive": 4,
+      "negative": 2,
+      "neutral": 0
+    },
+    "防衛産業": {
+      "positive": 8,
+      "negative": 4,
+      "neutral": 0
+    },
+    "国際関係": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "宇宙産業": {
+      "positive": 6,
+      "negative": 3,
+      "neutral": 0
+    },
+    "地質調査": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "古生物学": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育": {
+      "positive": 6,
+      "negative": 0,
+      "neutral": 1
+    },
+    "エンターテイメント": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "生物学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "電子機器業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自動車関連業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "乳製品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "木材業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "法曹界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "政治": {
+      "positive": 2,
+      "negative": 6,
+      "neutral": 0
+    },
+    "メディア": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 2
+    },
+    "航空業界": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "旅行業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "空港建設": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "建設業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "観光業": {
+      "positive": 4,
+      "negative": 2,
+      "neutral": 2
+    },
+    "内装デザイン業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "会計業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィンテック業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "通信業界": {
+      "positive": 4,
+      "negative": 2,
+      "neutral": 0
+    },
+    "電子決済業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "宇宙開発": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "モーターサイクル業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エンジン製造業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "仮想通貨": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 1
+    },
+    "暗号資産業界": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融技術業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "オーディオ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エレクトロニクス業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "音響機器市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヘルスケア技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スポーツ用品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "小売業界": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "暗号資産": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "フィンテック": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "スマートフォン業界": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "平和事業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "軍事産業": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 1
+    },
+    "エネルギー業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "年金業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "財務業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "考古学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スマートフォン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カメラ技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "科学技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "農業": {
+      "positive": 2,
+      "negative": 3,
+      "neutral": 0
+    },
+    "高級車": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自動車産業": {
+      "positive": 5,
+      "negative": 1,
+      "neutral": 1
+    },
+    "消費者向け品": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "雇用サービス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "消費者サービス": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "食品産業": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "健康食品": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "エンターテインメント": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "映画製作": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "廃炉産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金属加工業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ゲーム業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エンターテインメント業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "デジタルプラットフォーム": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "インデックス投資": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "株式市場": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "物理学": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "電磁気学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "食品業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "衛生管理業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "タブレット市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ディスプレイ技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 1
+    },
+    "宇宙科学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "燻製食品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "チーズ製造業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "食品エンターテインメント": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "受験関連産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エネルギー産業": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 0
+    },
+    "製造産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "税務業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サービス業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    "輸出業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車": {
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0
+    },
+    "輸送": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "テクノロジー業界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融業界": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "研究・開発": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "再生医療": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "製薬": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1
+    },
+    "バイオテクノロジー": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0
+    },
+    "建材業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "観光業界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "モーターサイクル製造業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "輸送業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "デジタル広告": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SNS業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "家庭用製品": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Eコマース": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィットネス産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "リハビリテーション業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "エネルギー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "探査技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "環境科学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "出版": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "科学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "モータースポーツ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "証券取引所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "太陽光発電": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自動車業界": {
+      "positive": 3,
+      "negative": 2,
+      "neutral": 1
+    },
+    "イベント産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "警察・公務": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "動物研究業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "映像関連業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "家電業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1
+    },
+    "社会運動": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スポーツ産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウェアラブルデバイス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ファッション": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "鍼灸業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ドラッグストア業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "健康補助食品業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "リラクゼーション業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "デジタル資産情報サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MVNO業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "海運業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "海洋研究業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金利市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "経済セクター全般": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "人権問題": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "通信技術": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "教育資金業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融アドバイザー業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "キャンピングカー製造業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "出版業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育業界": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 1
+    },
+    "保険": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "年金": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "交通業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "水産業": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "食品加工": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "サイバーセキュリティ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "研究": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "国際政治": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "安全保障": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "銀行業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "基礎研究": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "教育関連": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ガソリンスタンド業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "金融市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "原油市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "IPO市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "音声コンテンツ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ラジオ業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "農水産物業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "電動モビリティ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自転車産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヘルスケア業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィットネス業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "医療業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1
+    },
+    "製薬業界": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "通信産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スポーツカー市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "科学研究": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スマートフォンアクセサリー業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ファッション業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "セキュリティ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "外交政策": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ゲーム産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "電子部品製造業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "コンピュータ周辺機器市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "海洋生態系": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "漁業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "野生動物保護": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "花卉業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "飲食業": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "学術研究": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "メンタルヘルス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "テーマパーク": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "情報技術": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "人材開発": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "防衛関連産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "保険業界": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "軍需産業": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "文化財保護": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政府・公共サービス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "人材管理": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "冷凍食品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "食品加工業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "賃貸業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "軍事": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "EC業界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "サービス産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "育児支援業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "航空機製造業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "防衛関連サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "貿易": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "地理空間データ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "宿泊業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "債券市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "環境保護": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "検索エンジン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "個人金融業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "人事業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "刑罰制度": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "飲料業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "カフェ業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "化粧品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "モバイル業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ハードウェア製造業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "オーディオデバイス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "音楽ストリーミング": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ホスピタリティ業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "音響機器ビジネス": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ヘルスケア産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "音楽業界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スポーツ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "技術開発": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "野生動物管理": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "都市環境": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "国際貿易": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    "商社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "資産管理": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "物流業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    "アウトドア製品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "美容品業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "不動産業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "介護業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "国債市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融セクター": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "再生可能エネルギー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "医薬品": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "労働環境": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "人事部門": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "リテール業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "公共セクター": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "暗号資産市場": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "伝統金融": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "労働市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インフレ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "法律サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "マスコミ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アプリ開発業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "メディアアート": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "法律業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "福祉業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "食品製造": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "SUV市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ハイブリッド車市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "外交": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI開発": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "動画編集": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "電動車産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "詐欺": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "投資": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "K-POP": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政治業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "クラシックカー市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "電気自動車産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車保険業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "経済政策": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "雇用市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "科学研究業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "旅行業界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "人権団体": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "計測器業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "通信機器業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "地域医療": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "リハビリテーション": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "公共安全": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "保護犬ビジネス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペット医療業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペット用品業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スポーツイベント": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロケット開発": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "化学産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "材料科学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "経済": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "人道支援": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ヘアケア業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "D2Cビジネス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "レアアース産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金投資": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "気象学": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "地球外生命探査": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エンタメ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アニメ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "地震学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "高温科学": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "動物行動学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペット産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "鉄道業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "オートバイ市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "建築業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "地質学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "環境保護活動": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "MVNO": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "大手キャリア": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "リユース業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "石油業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "道路建設業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "交通運輸業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "不動産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "IT業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体製造業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "木材産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "乳製品産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車製造": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "部品供給業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ファミリー向け市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "デジタル資産業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "再生可能エネルギー業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "化石燃料業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "出版業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "宇宙探査": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "生物医療": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スパイ活動": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "情報技術(TI)": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "調査報道": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スタートアップ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "農業産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  "companies_positive_negative": {
+    "コメリカ・バンク": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ゴールドマン・サックス・グループ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "日本原水爆被害者団体協議会": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中国の探査車「祝融」": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サンワサプライ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米国の酪農業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カナダの乳製品業者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "公職犯罪捜査処": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ソウル西部地裁": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "政治関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "日本空港ビルデング": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "東京国際空港ターミナル": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "宇都宮市の大谷石生産会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "小松市の滝ヶ原石生産会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "タックスナップ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ahamo": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "povo": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "LINEMO": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Intuitive Machines": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ヤマハ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テザー・ホールディングス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カルダノ": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "XRP": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ソラナ": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "JBL": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Xiaomi": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ソニー": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Apple Inc.": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自民党": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ヨドバシカメラ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "石井スポーツ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ビットコイン": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ビットゴー": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "家電量販店": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スマホ保険業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "国連": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "核保有国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "コスモ石油": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日揮ホールディングス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本年金機構": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "バイキング関連観光業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Nothing": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "研究機関": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "マセラティ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ホンダ": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "マイクロソフト": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "アマゾン": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "テスラ": {
+      "positive": 1,
+      "negative": 5,
+      "neutral": 2
+    },
+    "グルテンフリー食品メーカー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ハリウッド": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "関連企業（メディア、記録映画など）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヨシダ": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "任天堂": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スペースX": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Tesla": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NVIDIA": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "講談社": {
+      "positive": 5,
+      "negative": 0,
+      "neutral": 0
+    },
+    "消毒剤製造業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "食品業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "Apple": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Yahoo! JAPAN": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Nate From the Internet": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ChatGPT": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "塾業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "製造業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "エネルギー企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "トヨタ自動車": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ユーロ圏企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エヌビディア": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "NASA": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "宇宙関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テレソン小児研究所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "オーストラリア国立大学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "筑波地域の採掘業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "東京の建材供給業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "字節跳動（バイトダンス）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Noend": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "楽天": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ピラティススタジオ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィットネス関連商品会社": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "オン・セミコンダクター": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アレグロ・マイクロシステムズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サンケン電気": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロシア製石油企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウクライナ防衛企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "探査関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "現代ビジネス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日産自動車": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ナスダック": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NYSE": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "共に民主党": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "国民の力": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "筑波大学": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "北朝鮮の海軍関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロシア": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペット関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "水産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "キヤノン": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "製薬会社": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "尹錫悦大統領": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "韓国政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "広島ドラゴンフライズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "琉球ゴールデンキングス": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "シャオミ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "FOSMET": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "お灸商品メーカー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "従来の治療院": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ワールド・リバティー・ファイナンシャル（WLFT）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SpaceX": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ワクチン製造会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "楽天モバイル": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "観光業者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "海運業者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "海洋調査機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "輸出関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "暫定政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "前政権支持者": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "税理士事務所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育関連事業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ケイワークス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "KODANSHA": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "iDeCo": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "NISA": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "個人年金保険": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "JR東日本": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カナダの輸出業者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国の消費者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エアバス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロールスロイス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ラインメタル": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サーブ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アメリカにおけるポルノ産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "論争型論文": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "FRB": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "サムスン": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ポーランド軍事関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロシア政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ウクライナ政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "米国政府": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ECB": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "防衛関連企業": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "株式会社LabBase": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ガソリンスタンド": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "スタイフェル・ニコラウス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウェルズ・ファーゴ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "東京メトロ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "キオクシア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ポッドキャスト関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "従来のラジオ局": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国の農業関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "カナダの農業関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "SWALLOW": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "競合他社": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "健康食品企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィットネスサービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "竜操整形外科病院": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アステラス製薬": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ISRO": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "マツダ": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "トヨタ": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "三菱": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スバル": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "女性研究者の支援を行う機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本の科学研究機関": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "3COINS": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ポーランド軍": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本の防衛産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アメリカの防衛産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本原水爆被害者団体": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "核兵器開発関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "GLOTRENDS": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SSDメーカー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "他のヒートシンク製造企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "漁業関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "海洋研究機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フレンズ・オブ・ビッグ・ベア・バレー（FOBBV）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "生花店": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "生産者組織": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "学会": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "メンタルヘルス関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "オリエンタルランド": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ディズニー関連企業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "野党（共に民主党）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "尹大統領": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "かつ好": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ドイツ製造企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "防衛・インフラ関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ユーシーカード": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米国防総省": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ロシア国営石油会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "大エジプト博物館": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イーロン・マスク": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "マルコ・ルビオ": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "プーチン政権": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "冷凍食品メーカー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "外食業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "不動産業者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ウクライナ軍": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロシア軍": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ミルズインターナショナル": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "プラス・ウルトラ航空": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "育児支援サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "心理学関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イギリス国防省": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロッキード・マーチン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "BAEシステムズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "マクサー・テクノロジーズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "成田エアポートレストハウス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ユニバーサル・ミュージック": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サルヴァトーレ・フェラガモ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "水産関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "バイオテクノロジー企業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "Perplexity": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中小企業": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "大企業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ドトールコーヒーショップ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "UCC上島珈琲": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "イロハニ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "オーガニア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Anker": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Lenovo": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Aurzen": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "HMD": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Google/Samsung": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "熊本大学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "映画産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "公的健康機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イヤフォンメーカー": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "耳鼻科医院": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "セリーヌ・ディオン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ファイアフライ・エアロスペース": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インテュイティブ・マシーンズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アイスペース": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "トランプ政権": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "猟師": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "消防署": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ロシア国営ガス企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ウクライナ天然ガス企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "三井物産": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "伊藤忠商事": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "東京海上ホールディングス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "インテュイティブ・マシンズ": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ダイモン": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "整備工場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ユーザー（車所有者）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "国土交通省": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "モンベル": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "美容品店": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "住宅関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "高齢者向け福祉サービス": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ドイツ債": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "東北大学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "理化学研究所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ドン・キホーテ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政府関係企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "イーサリアム": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本銀行": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "出版社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "移民支援サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "移民弁護士": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サムスン電子": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Google": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "落合陽一": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "養育費保証サービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "法律事務所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米農務省": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "オランダの卵業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "トルコの卵業者": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フォルクスワーゲン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スズキ": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フォールド・ホールディングス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "防衛企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "外交関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "キャデラック": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "バイナンス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テレグラム": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "BOYNEXTDOOR": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "尹錫悦政権": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "検察": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "日産": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本生命保険": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インダスインド銀行": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フェラーリ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "RMサザビーズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米連邦準備制度理事会（ＦＲＢ）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Bappa Shota": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "島津製作所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "聖隷浜松病院": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペットフードメーカー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "動物病院": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "シニア犬専門ショップ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "本田技研工業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ホンダモビリティランド株式会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "レストアビジョン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "慶應義塾大学": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "バイオ企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "コインベース": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "名古屋市の医療機関": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "習近平政権": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "暫定政権": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "旧アサド政権支持武装集団": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "cocone": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "米国企業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウクライナ企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "OSLグループ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "CoinDesk JAPAN": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ポケモン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ワンピース": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "労働市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "小企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "産業技術総合研究所": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ペット関連サービス業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "JR西日本": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "鉄道・運輸機構": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エムケーファーム": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "氣まぐれ茶屋ちえこ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "花崗岩採石企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "建材卸企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "環境NGO": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "SoftBank": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ワサビ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "メルカリ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロシア国営石油会社（ロスネフチ）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "BP": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "シェル": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "名古屋高速道路公社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NEXCO中日本": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "AMD": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "コーエーテクモゲームス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Ubisoft": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カナダの木材製造業者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "米国の農家": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NEXCO": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ガソリンスタンド運営企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中央発條": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "リップル": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "クラーケン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本航空（JAL）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "デルタ航空": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "再生可能エネルギー企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "化石燃料企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "蔦屋重三郎": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "大学・研究機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ブルガリア": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "文藝春秋": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政治団体": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インド企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    }
+  }
+}

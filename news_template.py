@@ -1,3 +1,4 @@
+import uuid
 import streamlit as st
 from chart_template import ChartFactory
 
@@ -75,4 +76,5 @@ def create_news_report_page(date, report_data) -> st.Page:
             container.write(supply_demand["balance_description"])
             container.markdown("---")
 
+    news_page.__name__ = f"news_page_{date.replace("-", "")}"
     return st.Page(news_page, title=f"News Report at {date}")
