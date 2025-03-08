@@ -1,31 +1,91 @@
 {
-	"company_names": {
-		"レウミットヘルスケア": 1,
-		"ボルボ・カー": 1,
-		"スズキ": 1,
-		"Repro": 1,
-		"AYANEO": 1,
-		"株式会社天空": 1
-	},
-	"countries_positive_negative": {
-		"イスラエル": { "positive": 1, "negative": 0, "neutoral": 0 },
-		"米国": { "positive": 0, "negative": 0, "neutoral": 1 },
-		"EU": { "positive": 0, "negative": 1, "neutoral": 0 },
-		"ハンガリー": { "positive": 1, "negative": 0, "neutoral": 0 },
-		"ペルー": { "positive": 1, "negative": 0, "neutoral": 0 },
-		"英国": { "positive": 1, "negative": 0, "neutoral": 0 }
-	},
-	"industries_positive_negative": {
-		"自動車(世界)": { "positive": 0, "negative": 1, "neutoral": 0 },
-		"EC": { "positive": 0, "negative": 1, "neutoral": 0 },
-		"ITサービス": { "positive": 1, "negative": 0, "neutoral": 0 },
-		"ゲーミングPC": { "positive": 1, "negative": 0, "neutoral": 0 }
-	},
-	"companies_positive_negative": {
-		"レウミットヘルスケア": { "positive": 1, "negative": 0, "neutoral": 0 },
-		"ボルボ・カー": { "positive": 0, "negative": 1, "neutoral": 0 },
-		"スズキ": { "positive": 1, "negative": 0, "neutoral": 0 },
-		"Repro": { "positive": 0, "negative": 0, "neutoral": 1 },
-		"AYANEO": { "positive": 1, "negative": 0, "neutoral": 0 }
-	}
+    "company_names": {
+        "\u30ec\u30a6\u30df\u30c3\u30c8\u30d8\u30eb\u30b9\u30b1\u30a2": 1,
+        "\u30dc\u30eb\u30dc\u30fb\u30ab\u30fc": 1,
+        "\u30b9\u30ba\u30ad": 1,
+        "Repro": 1,
+        "AYANEO": 1,
+        "\u682a\u5f0f\u4f1a\u793e\u5929\u7a7a": 1
+    },
+    "countries_positive_negative": {
+        "\u30a4\u30b9\u30e9\u30a8\u30eb": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "\u7c73\u56fd": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 1
+        },
+        "EU": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+        },
+        "\u30cf\u30f3\u30ac\u30ea\u30fc": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "\u30da\u30eb\u30fc": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "\u82f1\u56fd": {
+            "positive": 1,
+            "negative": 1,
+            "neutral": 0
+        }
+    },
+    "industries_positive_negative": {
+        "\u81ea\u52d5\u8eca(\u4e16\u754c)": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+        },
+        "EC": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+        },
+        "IT\u30b5\u30fc\u30d3\u30b9": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "\u30b2\u30fc\u30df\u30f3\u30b0PC": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        }
+    },
+    "companies_positive_negative": {
+        "\u30ec\u30a6\u30df\u30c3\u30c8\u30d8\u30eb\u30b9\u30b1\u30a2": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "\u30dc\u30eb\u30dc\u30fb\u30ab\u30fc": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 0
+        },
+        "\u30b9\u30ba\u30ad": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        },
+        "Repro": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 1
+        },
+        "AYANEO": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 0
+        }
+    }
 }

@@ -21,15 +21,21 @@ class SummaryPage:
 
 
 # Initialize DataLoader and PageManager
-report_data_dir = "./report_data"
-data_loader = DataLoader(report_data_dir)
-report_data = data_loader.load_data()
+# @st.cache_data
+def report_data():
+    report_data_dir = "./report_data"
+    data_loader = DataLoader(report_data_dir)
+    return data_loader.load_data()
 
+
+# create news pages
+report_data = report_data()
 report_pages = {}
 for date, data in report_data.items():
     news_page = NewsReportPage(date, data)
     report_pages[date] = news_page.render()
 
+# create summary page
 summary_page = SummaryPage(report_pages)
 navigations = [summary_page.render()]
 for page in report_pages.values():

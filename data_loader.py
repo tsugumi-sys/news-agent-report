@@ -1,4 +1,3 @@
-import streamlit as st
 import os
 import re
 import json
@@ -26,7 +25,6 @@ class DataLoader:
                     )
         return sorted(dates, reverse=True)  # Sort in descending order
 
-    @st.cache_data
     def load_data(self):
         """Load JSON data and return dictionary of each date's data."""
         report_data = defaultdict(dict)
