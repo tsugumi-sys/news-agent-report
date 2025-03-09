@@ -113,7 +113,7 @@ class CompaniesPositiveNegativeChart(ChartContainer):
 
 
 class AnalysisName(StrEnum):
-    company_names = auto()
+    mentioned_companies = auto()
     countries_positive_negative = auto()
     industries_positive_negative = auto()
     companies_positive_negative = auto()
@@ -125,7 +125,7 @@ class ChartFactory:
     @staticmethod
     def create_chart(key, data):
         chart_classes = {
-            AnalysisName.company_names: CompanyNamesChart,
+            AnalysisName.mentioned_companies: CompanyNamesChart,
             AnalysisName.countries_positive_negative: CountriesPositiveNegativeChart,
             AnalysisName.industries_positive_negative: IndustriesPositiveNegativeChart,
             AnalysisName.companies_positive_negative: CompaniesPositiveNegativeChart,
