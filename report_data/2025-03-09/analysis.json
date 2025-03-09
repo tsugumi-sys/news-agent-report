@@ -1,173 +1,205 @@
 {
   "mentioned_companies": {
-    "nasdaq: NVDA": 25,
-    "nasdaq: 2330": 1,
-    "nasdaq: AMD": 10,
-    "nasdaq: INTC": 14,
-    "nasdaq: QCOM": 3,
-    "nasdaq: SMIC": 1,
-    "nasdaq: TSMC": 3,
-    "nasdaq: TSM": 11,
-    "nasdaq: TXN": 6,
-    "nasdaq: AMAT": 5,
-    "nasdaq: MU": 4,
-    "nasdaq: ON": 5,
-    "nasdaq: MRVL": 3,
-    "nasdaq: AVGO": 5,
-    "nasdaq: ADI": 3,
-    "nasdaq: MRK": 1,
-    "nasdaq: DOW": 1,
-    "nasdaq: AAPL": 4,
-    "nasdaq: GS": 1,
-    "nasdaq: DIS": 1,
-    "nasdaq: COIN": 1,
-    "nasdaq: MSTR": 1,
-    "nasdaq: NA": 9,
-    "nasdaq: AAOI": 2,
-    "nasdaq: AIP": 2,
-    "nasdaq: ALAB": 2,
-    "nasdaq: ALGM": 3,
-    "nasdaq: AMBA": 2,
-    "nasdaq: AMKR": 2,
-    "nasdaq: AOSL": 2,
-    "nasdaq: ARM": 2,
-    "nasdaq: ASTI": 2,
-    "nasdaq: ATOM": 2,
-    "nasdaq: AXTI": 2,
-    "nasdaq: BEEM": 2,
-    "nasdaq: CAN": 3,
-    "nasdaq: CRDO": 2,
-    "nasdaq: CRUS": 2,
-    "nasdaq: CSIQ": 3,
-    "nasdaq: CSLR": 3,
-    "nasdaq: DIOD": 2,
-    "nasdaq: DVLT": 2,
-    "nasdaq: ENPH": 2,
-    "nasdaq: FORM": 2,
-    "nasdaq: FSLR": 3,
-    "nasdaq: FTCI": 2,
-    "nasdaq: GFS": 2,
-    "nasdaq: GSIT": 2,
-    "nasdaq: HIMX": 2,
-    "nasdaq: ICHR": 2,
-    "nasdaq: IMOS": 2,
-    "nasdaq: INDI": 2,
-    "nasdaq: IPGP": 2,
-    "nasdaq: IPWR": 2,
-    "nasdaq: KOPN": 2,
-    "nasdaq: LASR": 2,
-    "nasdaq: LPTH": 2,
-    "nasdaq: LSCC": 2,
-    "nasdaq: MXL": 2,
-    "nasdaq: MCHP": 4,
-    "nasdaq: MPWR": 2,
-    "nasdaq: MRAM": 2,
-    "nasdaq: MTSI": 2,
-    "nasdaq: NVEC": 2,
-    "nasdaq: NVTS": 2,
-    "nasdaq: NXPI": 3,
-    "nasdaq: PLAB": 3,
-    "nasdaq: PRSO": 2,
-    "nasdaq: QRVO": 2,
-    "nasdaq: QUIK": 2,
-    "nasdaq: RMBS": 2,
-    "nasdaq: SHLS": 2,
-    "nasdaq: SITM": 2,
-    "nasdaq: SWKS": 3,
-    "nasdaq: UCTT": 2,
-    "nasdaq: VIAV": 2,
-    "nasdaq: RTX": 1,
-    "nasdaq: XLNX": 1,
-    "nasdaq: IFNNF": 1,
-    "nasdaq: NOC": 1,
-    "nasdaq: BAESY": 1,
+    "nasdaq: TSM": 9,
+    "nasdaq: AAOI": 1,
+    "nasdaq: ADI": 1,
+    "nasdaq: AIP": 1,
+    "nasdaq: ALAB": 1,
+    "nasdaq: ALGM": 2,
+    "nasdaq: AMAT": 1,
+    "nasdaq: AMBA": 1,
+    "nasdaq: AMD": 4,
+    "nasdaq: AMKR": 1,
+    "nasdaq: AOSL": 1,
+    "nasdaq: ARM": 1,
+    "nasdaq: ASTI": 1,
+    "nasdaq: ATOM": 1,
+    "nasdaq: AVGO": 3,
+    "nasdaq: AXTI": 1,
+    "nasdaq: BEEM": 1,
+    "nasdaq: CAN": 2,
+    "nasdaq: CRDO": 1,
+    "nasdaq: CRUS": 1,
+    "nasdaq: CSIQ": 1,
+    "nasdaq: CSLR": 1,
+    "nasdaq: CSLRW": 1,
+    "nasdaq: DIOD": 1,
+    "nasdaq: DVLT": 1,
     "nasdaq: EBON": 2,
-    "nasdaq: POWI": 2,
-    "nasdaq: ETL": 1,
-    "nasdaq: CSLRW": 2,
+    "nasdaq: ENPH": 1,
+    "nasdaq: FORM": 1,
+    "nasdaq: FSLR": 1,
+    "nasdaq: FTCI": 1,
+    "nasdaq: GFS": 1,
+    "nasdaq: GSIT": 1,
+    "nasdaq: HIMX": 1,
     "nasdaq: ICG": 1,
+    "nasdaq: ICHR": 1,
+    "nasdaq: IMOS": 1,
+    "nasdaq: INDI": 1,
+    "nasdaq: INTC": 6,
+    "nasdaq: IPGP": 1,
+    "nasdaq: IPWR": 1,
     "nasdaq: KLIC": 1,
+    "nasdaq: KOPN": 1,
     "nasdaq: LAES": 1,
+    "nasdaq: LASR": 1,
     "nasdaq: LEDS": 1,
-    "nasdaq: MAXN": 2,
+    "nasdaq: LPTH": 1,
+    "nasdaq: LSCC": 2,
+    "nasdaq: MAXN": 1,
+    "nasdaq: MCHP": 2,
     "nasdaq: MOBX": 1,
     "nasdaq: MOBXW": 1,
+    "nasdaq: MPWR": 1,
+    "nasdaq: MRAM": 1,
+    "nasdaq: MRVL": 1,
+    "nasdaq: MTSI": 1,
+    "nasdaq: MU": 2,
+    "nasdaq: MXL": 1,
+    "nasdaq: NA": 7,
+    "nasdaq: NVDA": 17,
+    "nasdaq: NVEC": 1,
+    "nasdaq: NVTS": 1,
+    "nasdaq: NXPI": 2,
+    "nasdaq: ON": 3,
     "nasdaq: OSIS": 1,
     "nasdaq: PENG": 1,
+    "nasdaq: PLAB": 1,
     "nasdaq: POET": 1,
+    "nasdaq: POWI": 2,
+    "nasdaq: PRSO": 1,
     "nasdaq: PXLW": 1,
-    "nasdaq: SEDG": 2,
+    "nasdaq: QRVO": 1,
+    "nasdaq: QUIK": 1,
+    "nasdaq: RMBS": 1,
+    "nasdaq: SEDG": 1,
     "nasdaq: SELX": 1,
+    "nasdaq: SHLS": 1,
     "nasdaq: SIMO": 1,
+    "nasdaq: SITM": 1,
     "nasdaq: SKYT": 1,
     "nasdaq: SLAB": 1,
     "nasdaq: SMTC": 1,
     "nasdaq: SMTK": 1,
     "nasdaq: SPCB": 1,
+    "nasdaq: SWKS": 2,
     "nasdaq: SYNA": 1,
     "nasdaq: TSEM": 1,
+    "nasdaq: TXN": 3,
     "nasdaq: TYGO": 1,
+    "nasdaq: UCTT": 1,
+    "nasdaq: VIAV": 1,
+    "nasdaq: IFNNF": 1,
+    "nasdaq: BAESY": 1,
+    "nasdaq: NOC": 1,
+    "nasdaq: RTX": 1,
     "nasdaq: ETH": 1,
     "nasdaq: WBTC": 1,
     "nasdaq: MOVE": 1,
+    "nasdaq: ETL": 1,
+    "nasdaq: AAPL": 2,
+    "nasdaq: DIS": 1,
+    "nasdaq: GS": 1,
+    "nasdaq: 台積電": 1,
+    "nasdaq: QCOM": 1,
+    "nasdaq: SMIC": 1,
     "nasdaq: TSLA": 1,
-    "nasdaq: MSFT": 2,
+    "nasdaq: MSFT": 1,
     "nasdaq: GOOGL": 1,
-    "nasdaq: META": 2,
-    "nasdaq: AMZN": 2
+    "nasdaq: META": 1,
+    "nasdaq: AMZN": 1,
+    "nasdaq: COIN": 1,
+    "nasdaq: MSTR": 1,
+    "nasdaq: N/A": 1
   },
   "countries_positive_negative": {
+    "台湾": {
+      "positive": 11,
+      "negative": 1,
+      "neutral": 1
+    },
+    "中国": {
+      "positive": 0,
+      "negative": 7,
+      "neutral": 0
+    },
+    "欧州連合（EU）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "フランス": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
     "インド": {
       "positive": 2,
       "negative": 0,
       "neutral": 0
     },
-    "台湾": {
-      "positive": 15,
-      "negative": 1,
-      "neutral": 0
-    },
-    "アメリカ": {
-      "positive": 15,
-      "negative": 9,
+    "アメリカ合衆国": {
+      "positive": 4,
+      "negative": 3,
       "neutral": 1
     },
-    "日本": {
-      "positive": 4,
-      "negative": 0,
-      "neutral": 3
-    },
-    "中国": {
-      "positive": 3,
-      "negative": 5,
+    "アメリカ": {
+      "positive": 11,
+      "negative": 7,
       "neutral": 2
     },
-    "欧州連合": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "欧州": {
+    "防衛産業": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
     "米国": {
-      "positive": 4,
-      "negative": 7,
+      "positive": 5,
+      "negative": 1,
       "neutral": 0
     },
-    "ユーロ圏": {
+    "欧州": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "日本": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自民党": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "カナダ": {
       "positive": 1,
       "negative": 2,
+      "neutral": 1
+    },
+    "中小企業": {
+      "positive": 1,
+      "negative": 0,
       "neutral": 0
     },
-    "グローバル市場": {
+    "世界市場": {
       "positive": 0,
       "negative": 1,
       "neutral": 0
     },
-    "欧州連合（EU）": {
+    "ウクライナ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "他の国": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ユーロ圏": {
       "positive": 0,
       "negative": 1,
       "neutral": 0
@@ -177,70 +209,235 @@
       "negative": 1,
       "neutral": 0
     },
-    "国際的信用": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "国際的な軍事産業": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "農業国": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "カナダ": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 1
-    },
-    "ロシア": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
-    "ウクライナ": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
     "EU": {
       "positive": 1,
       "negative": 0,
-      "neutral": 0
-    },
-    "インドネシア": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "アメリカ合衆国": {
-      "positive": 1,
-      "negative": 1,
       "neutral": 0
     },
     "メキシコ": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
+    },
+    "シンガポール": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
     }
   },
   "industries_positive_negative": {
-    "エネルギー、兵器、自動車、農産物": {
+    "半導体産業": {
+      "positive": 10,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IT産業": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
+    },
+    "金融": {
+      "positive": 1,
+      "negative": 3,
+      "neutral": 0
+    },
+    "投資": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車産業": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エネルギー産業": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 0
+    },
+    "医薬品産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "農産物": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融業": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "不動産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "通信業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政治業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "製造業": {
+      "positive": 4,
+      "negative": 2,
+      "neutral": 1
+    },
+    "消費関連産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "テクノロジー産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "広告産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エンターテインメント産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
     },
     "半導体業界": {
       "positive": 5,
       "negative": 1,
       "neutral": 0
     },
-    "テクノロジー業界": {
+    "ヘッジファンド": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "サービス業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "小売業": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融業界": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 1
+    },
+    "暗号資産業界": {
       "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車関連産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "クラウドコンピューティング産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "防衛産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "衛星通信業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "物流業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "医療": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "運輸": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "防衛セクター": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インフラ関連業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    "半導体": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "労働市場関連産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "輸出関連": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "労働市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "消費財": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI関連産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "不動産業界": {
+      "positive": 0,
       "negative": 1,
       "neutral": 0
     },
@@ -249,924 +446,154 @@
       "negative": 0,
       "neutral": 0
     },
-    "半導体産業": {
-      "positive": 9,
-      "negative": 1,
-      "neutral": 0
-    },
-    "エレクトロニクス産業": {
+    "株式市場": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "輸送産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "テクノロジー産業": {
-      "positive": 5,
-      "negative": 0,
-      "neutral": 0
-    },
-    "半導体": {
-      "positive": 5,
-      "negative": 0,
-      "neutral": 0
-    },
-    "テクノロジー": {
-      "positive": 4,
-      "negative": 0,
-      "neutral": 0
-    },
-    "AI": {
+    "エレクトロニクス": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "セミコンダクター産業": {
+    "スマートフォン業界": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "暗号資産業界": {
-      "positive": 2,
-      "negative": 1,
-      "neutral": 0
-    },
-    "防衛産業": {
-      "positive": 3,
-      "negative": 1,
-      "neutral": 0
-    },
-    "エネルギー産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 2
-    },
-    "金融業": {
-      "positive": 2,
-      "negative": 2,
-      "neutral": 0
-    },
-    "エネルギー戦略": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "消費財産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "中小企業": {
+    "製造業全般": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "金融業界": {
-      "positive": 3,
-      "negative": 2,
-      "neutral": 0
-    },
-    "不動産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "雇用関連産業": {
-      "positive": 0,
-      "negative": 2,
-      "neutral": 0
-    },
-    "医療業界": {
+    "電気機器産業": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "輸出関連産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "消費関連産業": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
-    "技術関連産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "ヘッジファンド業界": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "金融サービス業界": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "ソーシャルメディア": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "広告": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "防衛関連産業": {
+    "半導体製造": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "投資関連産業": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "製造業": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 3
-    },
-    "石油・ガス産業": {
+    "海運業界": {
       "positive": 0,
       "negative": 0,
       "neutral": 1
-    },
-    "国際貿易": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "海運業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "技術産業": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "金融": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 2
-    },
-    "民間投資": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "エネルギー": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "重工業": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "自動車関連業界": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "小売業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "貿易関連産業": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "通信業界": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "防衛セクター": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "不動産": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "労働市場": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "暗号通貨業界": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "自動車産業": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "鉄鋼・アルミニウム産業": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
     }
   },
   "companies_positive_negative": {
-    "NVIDIA Corporation": {
-      "positive": 12,
-      "negative": 5,
-      "neutral": 1
+    "TSM": {
+      "positive": 27,
+      "negative": 4,
+      "neutral": 6
     },
-    "TSMC": {
-      "positive": 5,
-      "negative": 3,
-      "neutral": 2
-    },
-    "Advanced Micro Devices Inc. Common Stock": {
-      "positive": 2,
+    "ECB": {
+      "positive": 0,
       "negative": 0,
       "neutral": 1
     },
-    "Intel Corporation": {
-      "positive": 2,
-      "negative": 5,
-      "neutral": 1
-    },
-    "Qualcomm Incorporated": {
-      "positive": 2,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Semiconductor Manufacturing International Corporation": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Taiwan Semiconductor Manufacturing Company": {
-      "positive": 2,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Taiwan Semiconductor Manufacturing": {
-      "positive": 3,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Advanced Micro Devices": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Texas Instruments Incorporated": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Advanced Micro Devices Inc.": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Applied Materials Inc.": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Micron Technology Inc.": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "ON Semiconductor Corporation": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Marvell Technology Inc.": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Broadcom Inc.": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Analog Devices Inc.": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Intel Corporation Common Stock": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 2
-    },
-    "NVIDIA Corporation Common Stock": {
-      "positive": 2,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Merck KGaA": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Dow Chemical Company": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Goldman Sachs Group Inc. Common Stock": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Walt Disney Co. Common Stock": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Apple Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Coinbase Global Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "MicroStrategy Incorporated Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Gemini Trust Company, LLC": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Taiwan Semiconductor Manufacturing Company Limited": {
+    "NVDA": {
       "positive": 6,
-      "negative": 3,
-      "neutral": 0
+      "negative": 6,
+      "neutral": 6
     },
-    "Milennium Management": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Hedge Funds": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "TikTok": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "バイトダンス (ByteDance)": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Skyworks Solutions Inc. Common Stock": {
+    "BAESY": {
       "positive": 1,
-      "negative": 1,
+      "negative": 0,
       "neutral": 0
     },
-    "Broadcom Inc. Common Stock": {
+    "NXPI": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NOC": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MCHP": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "RTX": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IFNNF": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ON": {
       "positive": 2,
       "negative": 0,
       "neutral": 0
     },
-    "Applied Materials Inc. Common Stock": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 1
-    },
-    "BAE Systems": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "NXP": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Northrop Grumman": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Microchip (Microsemi)": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Raytheon": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Infineon Technologies": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "ON Semiconductor": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Texas Instruments": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Intel": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Xilinx": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Broadcom": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Taiwan Semiconductor Manufacturing Corp": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Samsung": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "SMIC": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Microchip Technology Incorporated Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Texas Instruments Incorporated Common Stock": {
+    "TXN": {
       "positive": 1,
       "negative": 1,
       "neutral": 0
     },
-    "Allegro MicroSystems Inc. Common Stock": {
-      "positive": 1,
+    "INTC": {
+      "positive": 2,
       "negative": 1,
-      "neutral": 0
+      "neutral": 2
     },
-    "ON Semiconductor Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Canaan Inc. American Depositary Shares": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 1
-    },
-    "Ebang International Holdings Inc. Class A Ordinary Shares": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 1
-    },
-    "Nano Labs Ltd Class A Ordinary Shares": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Power Integrations Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Eutelsat Communications": {
-      "positive": 1,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Applied Optoelectronics Inc. Common Stock": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Analog Devices Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Arteris Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Astera Labs Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Ambarella Inc. Ordinary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Amkor Technology Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Alpha and Omega Semiconductor Limited Common Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Arm Holdings plc American Depositary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Ascent Solar Technologies Inc. Common Stock": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Atomera Incorporated Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "AXT Inc Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Beam Global Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Credo Technology Group Holding Ltd Ordinary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Cirrus Logic Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Canadian Solar Inc. Common Shares (ON)": {
+    "AVGO": {
       "positive": 2,
       "negative": 0,
       "neutral": 0
     },
-    "Complete Solaria Inc. Common Stock": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Complete Solaria Inc. Warrants": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Diodes Incorporated Common Stock": {
+    "自民党": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "Datavault AI Inc. Common Stock": {
+    "日本の成長": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "Enphase Energy Inc. Common Stock": {
+    "参院選": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "FormFactor Inc. FormFactor Inc. Common Stock": {
+    "党再生": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "First Solar Inc. Common Stock": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "FTC Solar Inc. Common Stock": {
+    "SWKS": {
       "positive": 1,
       "negative": 0,
-      "neutral": 0
+      "neutral": 1
     },
-    "GlobalFoundries Inc. Ordinary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "GSI Technology Common Stock": {
+    "CAN": {
       "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Himax Technologies Inc. American Depositary Shares": {
-      "positive": 1,
-      "negative": 0,
+      "negative": 1,
       "neutral": 0
     },
-    "Intchains Group Limited American Depositary Shares": {
+    "EBON": {
       "positive": 0,
-      "negative": 0,
-      "neutral": 1
+      "negative": 1,
+      "neutral": 0
     },
-    "Ichor Holdings Ordinary Shares": {
+    "NA": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ETH": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "ChipMOS TECHNOLOGIES INC. American Depositary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "indie Semiconductor Inc. Class A Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "IPG Photonics Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Ideal Power Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Kulicke and Soffa Industries Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Kopin Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SEALSQ Corp Ordinary Shares": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "nLIGHT Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SemiLEDS Corporation Common Stock": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "LightPath Technologies Inc. Class A Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Lattice Semiconductor Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Maxeon Solar Technologies Ltd. Ordinary Shares": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Mobix Labs Inc. Class A Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Mobix Labs Inc Warrants": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Monolithic Power Systems Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Everspin Technologies Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Marvell Technology Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "MACOM Technology Solutions Holdings Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Micron Technology Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "MaxLinear Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "NVE Corporation Common Stock": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Navitas Semiconductor Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "NXP Semiconductors N.V. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "OSI Systems Inc. Common Stock (DE)": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Penguin Solutions Inc. Ordinary Shares": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Photronics Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 1
-    },
-    "POET Technologies Inc. Common Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Peraso Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Pixelworks Inc.  Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Qorvo Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "QuickLogic Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Rambus Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SolarEdge Technologies Inc. Common Stock": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Semilux International Ltd. Ordinary Shares": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Shoals Technologies Group Inc. Class A Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Silicon Motion Technology Corporation American Depositary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SiTime Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SkyWater Technology Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Silicon Laboratories Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Semtech Corporation Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SmartKem Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "SuperCom Ltd. Ordinary Shares (Israel)": {
-      "positive": 0,
-      "negative": 0,
-      "neutral": 1
-    },
-    "Synaptics Incorporated Common Stock $0.001 Par Value": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Tower Semiconductor Ltd. Ordinary Shares": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Tigo Energy Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Ultra Clean Holdings Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Viavi Solutions Inc. Common Stock": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Apple Inc.": {
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Tether Holdings": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Wrapped Bitcoin": {
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0
-    },
-    "Ethereum": {
+    "WBTC": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
@@ -1176,70 +603,105 @@
       "negative": 0,
       "neutral": 0
     },
-    "CoinGecko": {
+    "ALGM": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ETL": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "Micron Technology, Inc.": {
+    "AMD": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AAPL": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    },
+    "DIS": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "GS": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "LSCC": {
       "positive": 1,
       "negative": 1,
       "neutral": 1
     },
-    "エヌビディア": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "テスラ": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "アップル": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "マイクロソフト": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "アルファベット": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "メタ・プラットフォームズ": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "アマゾン・ドット・コム": {
-      "positive": 0,
-      "negative": 1,
-      "neutral": 0
-    },
-    "Amazon.com, Inc.": {
+    "台積電": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "Meta Platforms, Inc.": {
+    "MU": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "Microsoft Corporation": {
+    "POWI": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "QCOM": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
     },
-    "Advanced Micro Devices, Inc.": {
+    "SMIC": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "TSLA": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "MSFT": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "GOOGL": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "META": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "AMZN": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "COIN": {
       "positive": 1,
       "negative": 0,
       "neutral": 0
+    },
+    "MSTR": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "N/A": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
     }
   }
 }
