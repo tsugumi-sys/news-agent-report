@@ -1,0 +1,1560 @@
+{
+  "company_names": {
+    "ユーテルサット": 1,
+    "Department of Government Efficiency (DOGE)": 1,
+    "Social Security Administration (SSA)": 1,
+    "Democracy Forward": 1,
+    "ターンベリーゴルフリゾート": 1,
+    "ドナルド・トランプの企業": 1,
+    "Taiwan Semiconductor Manufacturing Company": 1,
+    "中国国家統計局": 1,
+    "アジアソサエティ政策研究所": 1,
+    "ウォール街": 2,
+    "エヌビディア": 1,
+    "テスラ": 1,
+    "アップル": 2,
+    "マイクロソフト": 1,
+    "アルファベット": 1,
+    "メタ・プラットフォームズ": 1,
+    "アマゾン・ドット・コム": 1,
+    "中国科学院": 1,
+    "中国科学技術大学": 1,
+    "フランス国立科学研究所": 1,
+    "電子科技大学": 1,
+    "サムスン": 1,
+    "インテル": 1,
+    "台湾積体電路製造": 1,
+    "中国電子技術集団": 1,
+    "コインベース・グローバル": 1,
+    "マイクロストラテジー": 1,
+    "ジェミニ": 1,
+    "財務省": 1,
+    "商務省": 1,
+    "Meta Platforms, Inc.": 1,
+    "Meta Platforms": 1,
+    "EssilorLuxottica": 1,
+    "Edmunds": 1,
+    "CNBC": 2,
+    "欧州中央銀行（ECB）": 1,
+    "ブルームバーグ": 3,
+    "米国政府": 1,
+    "ビットコイン関連企業": 1,
+    "ビットゴー": 1,
+    "Tech in Asia": 1,
+    "不明": 1,
+    "欧州中央銀行（ＥＣＢ）": 1,
+    "日本銀行": 1,
+    "台湾半導体製造株式会社（TSMC）": 1,
+    "アップル（Apple Inc.）": 1,
+    "インテル（Intel Corporation）": 1,
+    "NVIDIA Corporation": 1,
+    "AMDA（Advanced Micro Devices, Inc.）": 1,
+    "カナダ政府": 3,
+    "中国政府": 3,
+    "輸出業者": 1,
+    "ビル・ゲイツ": 1,
+    "ヴァツラフ・スミル": 1,
+    "ウェルネス企業": 1,
+    "高齢者支援サービス": 1,
+    "フィットネス関連企業": 1,
+    "米連邦準備制度理事会 (FRB)": 1,
+    "TSMC": 6,
+    "Semiconductor Industry Association": 1,
+    "インド商工省": 1,
+    "ミレニアム・マネジメント": 1,
+    "米連邦準備制度理事会（ＦＲＢ）": 3,
+    "MSN": 1,
+    "エアバス": 1,
+    "ロールスロイス": 1,
+    "ラインメタル": 1,
+    "サーブ": 1,
+    "Landis+Gyr Group AG": 1,
+    "国家統計局": 1,
+    "BondBloxx": 1,
+    "Intel": 4,
+    "Samsung Electronics": 2,
+    "Micron": 1,
+    "メル・ロビンズ": 1,
+    "Wolfspeed Inc.": 1,
+    "Purdue University": 1,
+    "メルク": 1,
+    "ダウ・ケミカル": 1,
+    "東京オカコウギョウ": 1,
+    "ロシア連邦": 1,
+    "ウクライナ政府": 1,
+    "アメリカ合衆国政府": 1,
+    "ドナルド・トランプ": 1,
+    "エロン・マスク": 1,
+    "台湾半導体製造業者（TSMC）": 1,
+    "Nvidia": 2,
+    "Amazon": 2,
+    "Meta": 2,
+    "Tesla": 2,
+    "JPMorgan": 1,
+    "Alphabet": 1,
+    "Hinge Health": 1,
+    "NVIDIA": 1,
+    "Qualcomm": 1,
+    "Samsung": 1,
+    "ASML": 1,
+    "SMIC": 1,
+    "Foxconn": 2,
+    "Broadcom": 1,
+    "Siemens": 1,
+    "Google": 1,
+    "STMicroelectronics": 1,
+    "Taiwan Semiconductor Manufacturing (TSMC)": 1,
+    "Advanced Micro Devices (AMD)": 1,
+    "ゴールドマン・サックス・グループ": 1,
+    "ウォルト・ディズニー": 1,
+    "HP": 1,
+    "アルコア": 1,
+    "SK Hynix": 1,
+    "台湾半導体製造(TSMC)": 1,
+    "米政府": 1,
+    "トランプ政権": 1,
+    "Microsoft": 1,
+    "OpenAI": 1,
+    "Taiwan Semiconductor Manufacturing Company Limited": 2,
+    "バイトダンス": 1,
+    "TikTok": 1,
+    "台湾積体電路製造公司 (TSMC)": 1,
+    "ワールド・リバティー・ファイナンシャル（WLFFC）": 1,
+    "Goodyear Tire & Rubber Co.": 1,
+    "Trump Organization": 1,
+    "Capital One": 1,
+    "ニューヨーク州政府": 1,
+    "エア・ナショナルガード": 1,
+    "サンフランシスコ連邦準備銀行": 1,
+    "Denny's": 1,
+    "米財務省": 1,
+    "アメリカ合衆国労働省": 1,
+    "連合": 1,
+    "自民党": 1,
+    "HCL Group": 1,
+    "Vama Sundari Investments": 1,
+    "米国国土安全保障省": 1,
+    "ＥＣＢ（欧州中央銀行）": 1,
+    "欧州中央銀行(E ECB)": 1,
+    "ラトビア中銀": 1,
+    "米国連邦準備制度理事会（FRB）": 1,
+    "カナダ中央銀行": 1,
+    "ミシガン大学": 1,
+    "PDF Solutions": 1,
+    "secureWISE": 1,
+    "Telit IOT Solutions Inc.": 1,
+    "Taiwan Semiconductor Manufacturing": 1,
+    "Advanced Micro Devices": 1,
+    "学生借入者保護センター": 1,
+    "さまざまな非営利団体": 1,
+    "シット・インベストメント": 1,
+    "プリンシパル・アセット・マネジメント": 1,
+    "ノースライト・アセット・マネジメント": 1,
+    "ハリス・フィナンシャル・グループ": 1,
+    "チャールズ・シュワブＵＫ": 1,
+    "Walmart": 1,
+    "Cheesecake Factory": 1,
+    "Smithfield Foods": 1,
+    "Ducommun": 1,
+    "台湾半導体製造会社（TSMC）": 1,
+    "テザー・ホールディングス": 1,
+    "米疾病対策センター（CDC）": 1,
+    "Micron Technology, Inc. (MU)": 1
+  },
+  "countries_positive_negative": {
+    "ウクライナ": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "EU": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ロシア": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アメリカ": {
+      "positive": 22,
+      "negative": 11,
+      "neutral": 2
+    },
+    "トランプ政権": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スコットランド": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "台湾": {
+      "positive": 12,
+      "negative": 3,
+      "neutral": 1
+    },
+    "米国": {
+      "positive": 9,
+      "negative": 7,
+      "neutral": 1
+    },
+    "中国": {
+      "positive": 2,
+      "negative": 14,
+      "neutral": 2
+    },
+    "メキシコ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "カナダ": {
+      "positive": 2,
+      "negative": 3,
+      "neutral": 0
+    },
+    "その他国": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "アメリカ合衆国": {
+      "positive": 9,
+      "negative": 5,
+      "neutral": 2
+    },
+    "欧州連合": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ユーロ圏": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "シンガポール": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アジア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 2
+    },
+    "ヨーロッパ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "その他の地域": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "日本経済": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "世界経済": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スウェーデン": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アイスランド": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アフリカ諸国": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "インド": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フランス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ドイツ": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スイス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "グローバル": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "韓国": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "その他": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中小企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "欧州": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "米金融市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  "industries_positive_negative": {
+    "通信衛星": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "防衛": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インフラ復旧": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政府サービス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "法律業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "データプライバシー": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "観光業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "不動産": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スポーツ産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "半導体産業": {
+      "positive": 12,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー産業": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自動車産業": {
+      "positive": 0,
+      "negative": 4,
+      "neutral": 2
+    },
+    "食品業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "小売業": {
+      "positive": 1,
+      "negative": 3,
+      "neutral": 0
+    },
+    "金融": {
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0
+    },
+    "テクノロジー": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 0
+    },
+    "貿易": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "電子機器産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "暗号資産業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融業界": {
+      "positive": 7,
+      "negative": 2,
+      "neutral": 0
+    },
+    "テクノロジー業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 2
+    },
+    "中古品リセール市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "eコマース": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ソーシャルメディア": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウェアラブルデバイス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI技術": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "消費者エレクトロニクス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "金融業": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 1
+    },
+    "輸出業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "消費財業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "暗号通貨": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "暗号通貨業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スタートアップ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SaaS": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィンテック": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IRA業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "投資戦略": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "労働市場": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "情報技術産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "企業の人事部門": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政府機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "農業": {
+      "positive": 2,
+      "negative": 3,
+      "neutral": 0
+    },
+    "製造業": {
+      "positive": 6,
+      "negative": 5,
+      "neutral": 1
+    },
+    "食品産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "健康管理業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "飲食業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "娯楽業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "貿易業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体業界": {
+      "positive": 5,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車業界": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エネルギー業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "医療業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "農産物業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヘッジファンド": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "不動産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "デジタルメディア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "伝統的メディア": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "防衛産業": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エネルギー産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウォーターメーター業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "スマートグリッド産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "プライベートクレジット": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ETF": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "メンタルヘルス産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "外交業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "公共サービス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ヘルスケア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "消費財": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "健康管理": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テレヘルス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "技術産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IT業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "通信業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI関連産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "雇用市場": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 1
+    },
+    "エレクトロニクス業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "人工知能関連": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IT・クラウドサービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政治": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "暗号資産": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "分散型金融（DeFi）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "タイヤ業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "低コスト製品市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "法律": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "消防業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "保険業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "防災産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "水産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "豚肉業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "サービス業": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "消費者支出": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中小企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "外国為替業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "公的部門": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "法執行機関": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インフレ関連産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中央銀行": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "半導体製造": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "教育": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "非営利団体": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融サービス": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "公共支出": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "金融市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "航空宇宙産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "レストランサービス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "医療・ヘルスケア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "製薬業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "不動産業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    }
+  },
+  "companies_positive_negative": {
+    "ユーテルサット": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Department of Government Efficiency": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "Social Security Administration": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ターンベリーゴルフリゾート": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "トランプ組織": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "台湾積体電路製造（TSMC）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "エヌビディア": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "テスラ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アップル": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国科学院": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インテル": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "コインベース・グローバル": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "マイクロストラテジー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Facebook Marketplace": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Meta Platforms": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "EssilorLuxottica": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Edmunds": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "銀行・金融機関": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "欧州中央銀行（ECB）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ビットコイン関連企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ビットゴー": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "Tech in Asia": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IRA・401(k)業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "欧州中央銀行": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "日本銀行": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "TSMC": {
+      "positive": 5,
+      "negative": 0,
+      "neutral": 1
+    },
+    "Apple": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Intel": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 0
+    },
+    "Samsung": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "国際企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スタートアップ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "伝統的産業": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "カナダの農業会社": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国の製造業者": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ビル・アンド・メリンダ・ゲイツ財団": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "健康食品会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィットネスジム": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "娯楽施設": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "米連邦準備制度理事会 (FRB)": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "米国半導体企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インド企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ミレニアム・マネジメント": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ハイテク企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MSN": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エアバス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ロールスロイス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Landis+Gyr Group AG": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "国家統計局": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "政府": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "BondBloxx": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Ford": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "メル・ロビンズ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自己啓発系企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Wolfspeed": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Purdue University": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "メルク": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ダウ・ケミカル": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "東京オカコウギョウ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ロシアの石油会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米国の防衛企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ウクライナの防衛産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "防衛企業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "非防衛関連企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "台湾半導体製造業者（TSMC）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ナスダック": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "S&P 500": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Hinge Health": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Tesla": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "SMIC": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ASML": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "クアルコム": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Broadcom": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Siemens": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "台湾セミコンダクターマニュファクチャリング (TSMC)": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アドバンスト・マイクロ・デバイセズ (AMD)": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ゴールドマン・サックス・グループ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ウォルト・ディズニー": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "Samsung Electronics": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "SK Hynix": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "台湾半導体製造(TSMC)": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Nvidia": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "AMD": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "カナダ政府": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中国企業": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "米国企業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "Taiwan Semiconductor Manufacturing Company Limited": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "TikTok（バイトダンス）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ウォールストリートの投資家": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Naviter Wealth LLC": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "他の半導体製造企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "大統領職": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ワールド・リバティー・ファイナンシャル（WLFFC）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Goodyear Tire & Rubber Co.": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Elliott Investment Management": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Capital One": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "Trump Organization": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "地元ビジネス": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "サンフランシスコ連邦準備銀行": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Denny's": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "カナダ農家": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "SP500": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ブルームバーグ": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "連合": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中小企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "米株式市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米国債市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "HCL Group": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Foxconn": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "DHS": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ＥＣＢ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "欧州中央銀行(E ECB)": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ラトビア中銀": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "消費者": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "企業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "PDF Solutions": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "secureWISE": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Taiwan Semiconductor Manufacturing": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Advanced Micro Devices": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "学生借入者保護センター": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "シット・インベストメント": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "プリンシパル・アセット・マネジメント": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ハリス・フィナンシャル・グループ": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "Walmart": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Smithfield Foods": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Ducommun": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Cheesecake Factory": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "台湾半導体製造会社（TSMC）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "テザー・ホールディングス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "製薬会社": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "Micron Technology, Inc.": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "米連邦準備制度理事会（ＦＲＢ）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  }
+}
