@@ -1,4 +1,3 @@
-import uuid
 import streamlit as st
 from chart_template import ChartFactory
 
@@ -48,6 +47,11 @@ def create_news_report_page(date, report_data) -> st.Page:
 
             container.subheader(news_info["title"])
             container.markdown(f"🔗 [Read More]({item['url']})")
+            if news_info["importance"]:
+                container.markdown(f"重要度: {news_info["importance"]}")
+                container.markdown(
+                    "(投資判断においてどれくらい重要な情報を含んでいるかしめす。Max 5, Min 0.)"
+                )
             container.write(f"🕒 Published: {news_info['published_date']}")
 
             impact_sections = [
