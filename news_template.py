@@ -14,6 +14,14 @@ class NewsReportPage:
         return create_news_report_page(self.date, self.report_data)
 
 
+def impact_label(impact: int) -> str:
+    if impact > 0:
+        return "🟢 Positive"
+    if impact < 0:
+        return "🔴 Negative"
+    return "- Neutral"
+
+
 def create_news_report_page(date, report_data) -> st.Page:
     """Creates a Streamlit Page instance for the news report.
 
