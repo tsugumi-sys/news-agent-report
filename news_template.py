@@ -73,11 +73,8 @@ def create_news_report_page(date, report_data) -> st.Page:
                     container.markdown(f"### {title}に対するインパクト")
                     for impact in impacts:
                         impact_value = impact["impact"]
-                        impact_label = (
-                            "🟢 Positive" if impact_value > 0 else "🔴 Negative"
-                        )
                         container.markdown(
-                            f"**{impact['target']} にとって {impact_label} ({impact_value})**"
+                            f"**{impact['target']} にとって {impact_label(impact_value)} ({impact_value})**"
                         )
                         container.write(f"**理由:** {impact['reason']}")
                         container.markdown("---")
