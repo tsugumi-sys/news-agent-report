@@ -1,0 +1,892 @@
+{
+  "mentioned_companies": {
+    "NASDAQ: NVDA": 15,
+    "NASDAQ: QCOM": 10,
+    "NASDAQ: TSM": 3,
+    "NASDAQ: INTC": 7,
+    "NASDAQ: STM": 2,
+    "NASDAQ: AAPL": 4,
+    "NASDAQ: TSLA": 3,
+    "NASDAQ: AMD": 11,
+    "NYSE: TSM": 4,
+    "nasdaq: 6178": 1,
+    "nasdaq: 7186": 1,
+    "NASDAQ: PAYW": 1,
+    "非公開: 非公開": 2,
+    "NASDAQ: MU": 2,
+    "OTCMKTS: SLTCY": 1,
+    "nasdaq: ATE": 1,
+    "nasdaq: JPN": 1,
+    "nasdaq: MCD": 1,
+    "NASDAQ: SSNLF": 2,
+    "NASDAQ: HXSCF": 1,
+    "NASDAQ: HWT.UL": 1,
+    "NASDAQ: AMZN": 1,
+    "NASDAQ: GOOGL": 1,
+    "NASDAQ: MSFT": 2,
+    "NASDAQ: AVGO": 3,
+    "nasdaq: TSM": 2,
+    "nasdaq: NVDA": 2,
+    "NASDAQ: TSEM": 2,
+    "NYSE: VLN": 1,
+    "NASDAQ: VCIG": 1,
+    "NASDAQ: NVO": 1,
+    "NASDAQ: LLY": 1,
+    "NASDAQ: MTK": 1,
+    "NASDAQ: MRVL": 1,
+    "NASDAQ: REAL": 1,
+    "nasdaq: AMD": 1,
+    "NASDAQ: 7686": 1,
+    "NASDAQ: ASML": 1,
+    "N/A: N/A": 7,
+    "NASDAQ: TXN": 3,
+    "NASDAQ: SLAB": 1,
+    "NASDAQ: TER": 1,
+    "NASDAQ: GS": 1,
+    "NASDAQ: JPM": 1,
+    "NASDAQ: MS": 1,
+    "NASDAQ: C": 1,
+    "NASDAQ: QG": 1,
+    "NASDAQ: ANT": 1,
+    "NASDAQ: AIR": 1,
+    "NASDAQ: RR.L": 1,
+    "NASDAQ: RHM.DE": 1,
+    "NASDAQ: SAAB-B.ST": 1,
+    "nasdaq: RKT": 1,
+    "nasdaq: RDFN": 1,
+    "NASDAQ: NXPI": 1,
+    "NASDAQ: ADI": 1,
+    "NASDAQ: MDTK": 1,
+    "NASDAQ: MCHP": 1,
+    "NASDAQ: IFNNF": 1,
+    "NASDAQ: JXHLY": 1,
+    "NASDAQ: HON": 1,
+    "NASDAQ: ON": 1
+  },
+  "countries_positive_negative": {
+    "韓国": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アメリカ": {
+      "positive": 14,
+      "negative": 5,
+      "neutral": 0
+    },
+    "北朝鮮": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "中国": {
+      "positive": 5,
+      "negative": 5,
+      "neutral": 0
+    },
+    "台湾": {
+      "positive": 6,
+      "negative": 1,
+      "neutral": 0
+    },
+    "欧州": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    },
+    "米国": {
+      "positive": 4,
+      "negative": 3,
+      "neutral": 2
+    },
+    "日本": {
+      "positive": 8,
+      "negative": 2,
+      "neutral": 1
+    },
+    "ニュージーランド": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アメリカおよびオーストラリア": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ニューヨーク州": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ユーロ圏": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "スロバキア": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ドイツ": {
+      "positive": 2,
+      "negative": 2,
+      "neutral": 0
+    },
+    "全世界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "UK": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "イスラエル": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インド": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "デンマーク": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "北米市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アジア太平洋市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヨーロッパ市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィリピン": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "国際刑事裁判所（ICC）": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "EUとインド": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アジア太平洋地域": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ヨーロッパ": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "全球市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "アメリカ合衆国": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "香港": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "アジア諸国": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "北米": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中東・アフリカ地域": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "以米国のデータセンター市場": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "中国の半導体業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ベトナム": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  "industries_positive_negative": {
+    "防衛産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1
+    },
+    "半導体産業": {
+      "positive": 12,
+      "negative": 1,
+      "neutral": 1
+    },
+    "自動車産業": {
+      "positive": 4,
+      "negative": 1,
+      "neutral": 0
+    },
+    "電子機器産業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "軍需産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "EU政策": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体業界": {
+      "positive": 11,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    },
+    "証券業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融サービス業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "仮想通貨・暗号資産業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "金融業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 2
+    },
+    "債券市場": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "投資信託業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "観光業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "不動産業": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 0
+    },
+    "小売業": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "公共料金業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "投資業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動車": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "自動運転システム": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI関連産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "投資": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジーセクター": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "国際開発産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "製造業": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー株": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ファーストフード業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "防衛およびインフラ関連産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "欧州中央銀行（ECB）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "AI半導体": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "スポーツビジネス": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "製薬業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "肥満症薬市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ファブレス半導体産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "データセンターおよび5Gインフラ産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "農業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "食品加工業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "法制度関連": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "政治国際情勢": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "教育業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "半導体製造業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "物流産業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "化学産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AI技術業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "競合企業（サムスン、インテルなど）": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "音声アシスタント業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "AI関連ソフトウェア開発": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "テスト装置産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "テクノロジー業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "航空宇宙業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "自動車業界": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "国際貿易": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "テクノロジー産業": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "人工知能（AI）業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "サイバーセキュリティー産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "従来の製造業": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "不動産仲介業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "フィンテック業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "消費者向け電子機器": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "エネルギー業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "農業業界": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "半導体材料業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "データ通信業界": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "EV産業": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "インフラ関連業界": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "金融市場": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "半導体 industry": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "量子コンピュータ industry": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  "companies_positive_negative": {
+    "QCOM": {
+      "positive": 8,
+      "negative": 2,
+      "neutral": 0
+    },
+    "NVDA": {
+      "positive": 12,
+      "negative": 4,
+      "neutral": 1
+    },
+    "TSM": {
+      "positive": 12,
+      "negative": 0,
+      "neutral": 4
+    },
+    "INTC": {
+      "positive": 3,
+      "negative": 1,
+      "neutral": 3
+    },
+    "STM": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AAPL": {
+      "positive": 1,
+      "negative": 2,
+      "neutral": 1
+    },
+    "TSLA": {
+      "positive": 0,
+      "negative": 2,
+      "neutral": 1
+    },
+    "AMD": {
+      "positive": 7,
+      "negative": 2,
+      "neutral": 3
+    },
+    "6178": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "7186": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "PAYW": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "非公開": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MU": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SLTCY": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "ATE": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "JPN": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MCD": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "GOOGL": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MSFT": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AMZN": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "SSNLF": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    },
+    "HXSCF": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "HWT.UL": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2
+    },
+    "AVGO": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "TSEM": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0
+    },
+    "VLN": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "VCIG": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NVO": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "LLY": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MTK": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MRVL": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "REAL": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "7686": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ASML": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "N/A": {
+      "positive": 7,
+      "negative": 0,
+      "neutral": 1
+    },
+    "TXN": {
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SLAB": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "TER": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "GS": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "JPM": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "MS": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "C": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    },
+    "QG": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ANT": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "AIR": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "RR.L": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "RHM.DE": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "SAAB-B.ST": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "RKT": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "RDFN": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "NXPI": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "ADI": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MDTK": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "MCHP": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "IFNNF": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "JXHLY": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    },
+    "HON": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 1
+    },
+    "ON": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  }
+}
