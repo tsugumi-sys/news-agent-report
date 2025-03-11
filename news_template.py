@@ -14,11 +14,11 @@ class NewsReportPage:
         return create_news_report_page(self.date, self.report_data)
 
 
-def impact_label(impact: int) -> str:
-    if impact > 0:
-        return "🟢 Positive"
-    if impact < 0:
-        return "🔴 Negative"
+def impact_label(impact: str) -> str:
+    if impact == "increase":
+        return "📈 Increase"
+    if impact == "decrease":
+        return "📉 Decrease"
     return "- Neutral"
 
 
@@ -30,60 +30,79 @@ def create_news_report_page(date, report_data) -> st.Page:
     """
 
     def news_page():
-        st.header(f"Report at {date}")
+        """Creates a Streamlit page instance for the news report."""
 
-        analysis_data = report_data["analysis"]
-        for key, data in analysis_data.items():
-            chart = ChartFactory.create_chart(key, data)
-            chart.render()
+        st.header(f"News Report - {date}")
 
-        st.subheader("News List")
-        news_data = report_data["news"]
-        for item in news_data:
+        for news_data in report_data["news"]:
+            news_info = news_data["knowledges"].get("news_basic_information", {})
+            related_industries = news_data["knowledges"].get("related_industries", {})
+            mentioned_companies = news_data["knowledges"].get("mentioned_companies", {})
+            market_impact = news_data["knowledges"].get(
+                "market_and_industry_impact", {}
+            )
+            competitive_impact = news_data["knowledges"].get(
+                "competitive_landscape_impact", {}
+            )
+            supply_demand = news_data["knowledges"].get(
+                "supply_demand_balance_change", {}
+            )
+
             container = st.container(border=True)
-            news_info = item["knowledges"]["news_basic_information"]
-            supply_demand = item["knowledges"]["supply_and_demand_balance"]
-            countries_impact = item["knowledges"]["countries_positive_negative"][
-                "items"
-            ]
-            industries_impact = item["knowledges"]["industries_positive_negative"][
-                "items"
-            ]
-            companies_impact = item["knowledges"]["companies_positive_negative"][
-                "items"
-            ]
+            with container:
+                st.subheader(news_info.get("title", "Untitled"))
+                st.write(f"🕒 Published: {news_info.get('published_date', 'Unknown')}")
+                st.write(f"📂 Category: {news_info.get('category', 'N/A')}")
+                st.write(f"🔗 [Read More]({report_data.get('url', '#')})")
 
-            container.subheader(news_info["title"])
-            container.markdown(f"🔗 [Read More]({item['url']})")
-            if news_info["importance"]:
-                container.markdown(f"重要度: {news_info["importance"]}")
-                container.markdown(
-                    "(投資判断においてどれくらい重要な情報を含んでいるかしめす。Max 5, Min 0.)"
-                )
-            container.write(f"🕒 Published: {news_info['published_date']}")
+                if "industries" in related_industries:
+                    st.subheader("📌 Related Industries")
+                    st.write(", ".join(related_industries["industries"]))
 
-            impact_sections = [
-                ("🌍 Countries", countries_impact),
-                ("🏭 Industries", industries_impact),
-                ("🏢 Companies", companies_impact),
-            ]
-
-            for title, impacts in impact_sections:
-                if impacts:
-                    container.markdown(f"### {title}に対するインパクト")
-                    for impact in impacts:
-                        impact_value = impact["impact"]
-                        container.markdown(
-                            f"**{impact['target']} にとって {impact_label(impact_value)} ({impact_value})**"
+                if "items" in mentioned_companies:
+                    st.subheader("🏢 Mentioned Companies")
+                    for company in mentioned_companies["items"]:
+                        st.write(
+                            f"- {company['name']} ({company['ticker']}, {company['exchange']})"
                         )
-                        container.write(f"**理由:** {impact['reason']}")
-                        container.markdown("---")
 
-            container.markdown("### ⚖️ Supply & Demand")
-            container.write(f"**供給:** {supply_demand['supply_resource']}")
-            container.write(f"**需要:** {supply_demand['demand_resource']}")
-            container.write(supply_demand["balance_description"])
-            container.markdown("---")
+                if market_impact:
+                    st.subheader("📉 Market & Industry Impact")
+                    for impact in market_impact.get("short_term_impacts", []):
+                        st.write(
+                            f"- {impact['company']} ({impact['ticker']}): {impact_label(impact['impact'])}"
+                        )
+                        st.write(f"  *Reason*: {impact['reason']}")
+                    for direction in market_impact.get("long_term_directions", []):
+                        st.write(
+                            f"- {direction['sector']} expected {impact_label(direction['expected_growth'])} over {direction['timeframe']}"
+                        )
+
+                if competitive_impact:
+                    st.subheader("⚔️ Competitive Landscape")
+                    for change in competitive_impact.get("market_share_changes", []):
+                        st.write(
+                            f"- {change['company']}: Market share {impact_label(change['change'])}"
+                        )
+                    for advantage in competitive_impact.get(
+                        "technological_advantages", []
+                    ):
+                        st.write(f"- {advantage['company']}: {advantage['advantage']}")
+
+                if supply_demand:
+                    st.subheader("⚖️ Supply & Demand Balance")
+                    for demand in supply_demand.get("demand_changes", []):
+                        st.write(
+                            f"- Demand for {demand['sector']}: {impact_label(demand['change'])}"
+                        )
+                    for supply in supply_demand.get("supply_changes", []):
+                        st.write(
+                            f"- Supply in {supply['sector']}: {impact_label(supply['change'])}"
+                        )
+                    for inventory in supply_demand.get("inventory_statuses", []):
+                        st.write(
+                            f"- {inventory['sector']}: {impact_label(inventory['status'])} (Price Impact: {impact_label(inventory['price_impact'])})"
+                        )
 
     news_page.__name__ = f"news_page_{date.replace("-", "")}"
     return st.Page(news_page, title=f"News Report at {date}")
