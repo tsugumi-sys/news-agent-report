@@ -23,14 +23,12 @@ class ChartContainer(ABC):
 
 class NewsCategoryCount(ChartContainer):
     def render(self):
-        category_counts = self.analyze()
+        df = self.analyze()
         container = st.container(border=True)
         container.subheader("ニュースの種類")
         # TODO: create pandas dataframe of name and count, then render with dataframe.
-        data = {"category": category_counts.keys(), "count": category_counts.values()}
-        df = pd.DataFrame(data)
         df.sort_values(by="count", ascending=False, inplace=True)
-        container.bar_chart(data, x="category", y=["count"], color=["#FF4D00"])
+        container.bar_chart(df, x="category", y=["count"], color=["#FF4D00"])
         container.dataframe(df, hide_index=True)
 
     def analyze(self) -> pd.DataFrame:
@@ -40,38 +38,42 @@ class NewsCategoryCount(ChartContainer):
                 "category", "N/A"
             )
             category_counts[category] += 1
-        return category_counts
+        data = {"category": category_counts.keys(), "count": category_counts.values()}
+        return pd.DataFrame(data)
 
 
-class CountriesPositiveNegativeChart(ChartContainer):
-    # data)
-    # {
-    # 	"イスラエル": { "positive": 1, "negative": 0, "neutral": 0 },
-    # 	"米国": { "positive": 0, "negative": 0, "neutral": 1 },
-    # 	"EU": { "positive": 0, "negative": 1, "neutral": 0 },
-    # 	"ハンガリー": { "positive": 1, "negative": 0, "neutral": 0 },
-    # 	"ペルー": { "positive": 1, "negative": 0, "neutral": 0 },
-    # 	"英国": { "positive": 1, "negative": 0, "neutral": 0 }
-    # }
+class ShortTermMarketImpact(ChartContainer):
     def render(self):
+        data = self.analyze()
         container = st.container(border=True)
-        container.subheader("📊 国ごとの影響度")
-        data = {
-            "country": self.data.keys(),
-            "positive": [item["positive"] for item in self.data.values()],
-            "negative": [item["negative"] for item in self.data.values()],
-            "neutral": [item["neutral"] for item in self.data.values()],
-        }
-        df = pd.DataFrame(data)
-        df.sort_values(by="positive", ascending=False, inplace=True)
+        container.subheader("📊 短期的な株価の変動予想")
+        container.text(
+            "ニュースによって上昇・下落の予想が揺れる。割合をみて判断するのが良さそうだ。"
+        )
+        data.sort_values(by="increase", ascending=False, inplace=True)
         container.bar_chart(
             data,
-            x="country",
-            y=["positive", "negative"],
+            x="ticker",
+            y=["increase", "decrease"],
             stack=True,
             color=["#FF0000", "#0000FF"],
         )
-        container.dataframe(df, hide_index=True)
+        container.dataframe(data, hide_index=True)
+
+    def analyze(self) -> pd.DataFrame:
+        impacts = defaultdict(lambda: defaultdict(int))
+        for news in self.data:
+            shortterm_impacts = news["knowledges"]["market_and_industry_impact"].get(
+                "short_term_impacts", []
+            )
+            for d in shortterm_impacts:
+                impacts[d["ticker"]][d["impact"]] += 1
+        data = {
+            "ticker": impacts.keys(),
+            "increase": [d["increase"] for d in impacts.values()],
+            "decrease": [d["decrease"] for d in impacts.values()],
+        }
+        return pd.DataFrame(data)
 
 
 class IndustriesPositiveNegativeChart(ChartContainer):
@@ -124,6 +126,7 @@ class AnalysisName(StrEnum):
     industries_positive_negative = auto()
     companies_positive_negative = auto()
     news_category_count = auto()
+    short_term_market_impacts = auto()
 
 
 class ChartFactory:
@@ -132,10 +135,10 @@ class ChartFactory:
     @staticmethod
     def create_chart(key, data):
         chart_classes = {
-            AnalysisName.countries_positive_negative: CountriesPositiveNegativeChart,
             AnalysisName.industries_positive_negative: IndustriesPositiveNegativeChart,
             AnalysisName.companies_positive_negative: CompaniesPositiveNegativeChart,
             AnalysisName.news_category_count: NewsCategoryCount,
+            AnalysisName.short_term_market_impacts: ShortTermMarketImpact,
         }
         if key in chart_classes:
             return chart_classes[key](data)

@@ -40,6 +40,9 @@ def create_news_report_page(date, report_data) -> st.Page:
         # Charts
         ###
         chart_factory.create_chart(AnalysisName.news_category_count, news).render()
+        chart_factory.create_chart(
+            AnalysisName.short_term_market_impacts, news
+        ).render()
 
         st.markdown("""
 ### 分析内容
