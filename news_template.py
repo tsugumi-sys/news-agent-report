@@ -1,5 +1,5 @@
 import streamlit as st
-from chart_template import ChartFactory
+from chart_template import ChartFactory, AnalysisName
 
 
 class NewsReportPage:
@@ -28,11 +28,18 @@ def create_news_report_page(date, report_data) -> st.Page:
     Args:
         report_data: { 'news': {}, 'analysis': {}}
     """
+    chart_factory = ChartFactory()
 
     def news_page():
         """Creates a Streamlit page instance for the news report."""
 
         st.header(f"News Report - {date}")
+
+        news = report_data["news"]
+        ###
+        # Charts
+        ###
+        chart_factory.create_chart(AnalysisName.news_category_count, news).render()
 
         st.markdown("""
 ### 分析内容
@@ -44,7 +51,7 @@ def create_news_report_page(date, report_data) -> st.Page:
                     """)
 
         st.markdown("## News")
-        for news_data in report_data["news"]:
+        for news_data in news:
             news_info = news_data["knowledges"].get("news_basic_information", {})
             related_industries = news_data["knowledges"].get("related_industries", {})
             mentioned_companies = news_data["knowledges"].get("mentioned_companies", {})
