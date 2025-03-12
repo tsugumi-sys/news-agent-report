@@ -62,7 +62,7 @@ def create_news_report_page(date, report_data) -> st.Page:
             with container:
                 st.subheader(news_info.get("title", "Untitled"))
                 st.write(f"🕒 Published: {news_info.get('published_date', 'Unknown')}")
-                st.write(f"🔗 [Read More]({report_data.get('url', '#')})")
+                st.write(f"🔗 [Read More]({news_data.get('url', '#')})")
 
                 st.markdown("**ニュースの種類**")
                 st.text(
@@ -144,6 +144,11 @@ def create_news_report_page(date, report_data) -> st.Page:
                             st.write(
                                 f"- 既存企業の寡占状態変化: {industry_structure_changes ["affected_companies"]}"
                             )
+                        elif industry_structure_changes["change_type"] == "contraction":
+                            st.write(
+                                f"- 縮小: {industry_structure_changes ["affected_companies"]}"
+                            )
+
                         else:
                             raise ValueError(
                                 f"unsupported change type: {industry_structure_changes ["change_type"]}"
@@ -168,7 +173,11 @@ def create_news_report_page(date, report_data) -> st.Page:
                             st.write(
                                 f"- {inventory['sector']}の在庫が余剰になる: (価格への影響: {impact_label(inventory['price_impact'])})"
                             )
-                        elif inventory["status"] == "shortage":
+                        # TODO: 表記揺れを直す。
+                        elif (
+                            inventory["status"] == "shortage"
+                            or inventory["status"] == "不足"
+                        ):
                             st.write(
                                 f"- {inventory['sector']}の在庫が不足する: (価格への影響: {impact_label(inventory['price_impact'])})"
                             )
