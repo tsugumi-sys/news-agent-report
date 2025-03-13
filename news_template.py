@@ -43,6 +43,7 @@ def create_news_report_page(date, report_data) -> st.Page:
         chart_factory.create_chart(
             AnalysisName.short_term_market_impacts, news
         ).render()
+        chart_factory.create_chart(AnalysisName.long_term_market_impacts, news).render()
 
         st.markdown("""
 ### 分析内容

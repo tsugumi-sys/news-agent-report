@@ -76,6 +76,41 @@ class ShortTermMarketImpact(ChartContainer):
         return pd.DataFrame(data)
 
 
+class LongTermMarketImpact(ChartContainer):
+    def render(self):
+        data = self.analyze()
+        container = st.container(border=True)
+        container.subheader("📊 中長期の業界変動予想")
+        container.text(
+            "ニュースによって上昇・下落の予想が揺れる。割合をみて判断するのが良さそうだ。"
+        )
+        data.sort_values(by="expansion", ascending=False, inplace=True)
+        container.bar_chart(
+            data,
+            x="sector",
+            y=["expansion", "contraction"],
+            stack=True,
+            color=["#FF0000", "#0000FF"],
+        )
+        container.dataframe(data, hide_index=True)
+
+    def analyze(self) -> pd.DataFrame:
+        impacts = defaultdict(lambda: defaultdict(int))
+        for news in self.data:
+            shortterm_impacts = news["knowledges"]["market_and_industry_impact"].get(
+                "long_term_directions", []
+            )
+            for d in shortterm_impacts:
+                if d["timeframe"] in ["years", "months", "weeks", "days"]:
+                    impacts[d["sector"]][d["expected_growth"]] += 1
+        data = {
+            "sector": impacts.keys(),
+            "expansion": [d["expansion"] for d in impacts.values()],
+            "contraction": [d["contraction"] for d in impacts.values()],
+        }
+        return pd.DataFrame(data)
+
+
 class IndustriesPositiveNegativeChart(ChartContainer):
     def render(self):
         container = st.container(border=True)
@@ -127,6 +162,7 @@ class AnalysisName(StrEnum):
     companies_positive_negative = auto()
     news_category_count = auto()
     short_term_market_impacts = auto()
+    long_term_market_impacts = auto()
 
 
 class ChartFactory:
@@ -139,6 +175,7 @@ class ChartFactory:
             AnalysisName.companies_positive_negative: CompaniesPositiveNegativeChart,
             AnalysisName.news_category_count: NewsCategoryCount,
             AnalysisName.short_term_market_impacts: ShortTermMarketImpact,
+            AnalysisName.long_term_market_impacts: LongTermMarketImpact,
         }
         if key in chart_classes:
             return chart_classes[key](data)
