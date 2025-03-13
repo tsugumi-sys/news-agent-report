@@ -68,12 +68,15 @@ def create_news_report_page(date, report_data) -> st.Page:
             supply_demand = news_data["knowledges"].get(
                 "supply_demand_balance_change", {}
             )
+            judgement = news_data["knowledges"].get("judgment")
 
             container = st.container(border=True)
             with container:
                 st.subheader(news_info.get("title", "Untitled"))
                 st.write(f"🕒 Published: {news_info.get('published_date', 'Unknown')}")
                 st.write(f"🔗 [Read More]({news_data.get('url', '#')})")
+
+                st.markdown(f"`{judgement.get("judge")}`")
 
                 st.markdown("**ニュースの種類**")
                 st.text(
