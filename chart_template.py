@@ -111,55 +111,7 @@ class LongTermMarketImpact(ChartContainer):
         return pd.DataFrame(data)
 
 
-class IndustriesPositiveNegativeChart(ChartContainer):
-    def render(self):
-        container = st.container(border=True)
-        container.subheader("🏭 業界ごとの影響度")
-        data = {
-            "industry": self.data.keys(),
-            "positive": [item["positive"] for item in self.data.values()],
-            "negative": [item["negative"] for item in self.data.values()],
-            "neutral": [item["neutral"] for item in self.data.values()],
-        }
-        df = pd.DataFrame(data)
-        df.sort_values(by="positive", ascending=False, inplace=True)
-        container.bar_chart(
-            data,
-            x="industry",
-            y=["positive", "negative"],
-            stack=True,
-            color=["#FF0000", "#0000FF"],
-        )
-        container.dataframe(df, hide_index=True)
-
-
-class CompaniesPositiveNegativeChart(ChartContainer):
-    def render(self):
-        container = st.container(border=True)
-        container.subheader("🏢 企業の影響度")
-
-        data = {
-            "company": self.data.keys(),
-            "positive": [item["positive"] for item in self.data.values()],
-            "negative": [item["negative"] for item in self.data.values()],
-            "neutral": [item["neutral"] for item in self.data.values()],
-        }
-        df = pd.DataFrame(data)
-        df.sort_values(by="positive", ascending=False, inplace=True)
-        container.bar_chart(
-            data,
-            x="company",
-            y=["positive", "negative"],
-            stack=True,
-            color=["#FF0000", "#0000FF"],
-        )
-        container.dataframe(df, hide_index=True)
-
-
 class AnalysisName(StrEnum):
-    countries_positive_negative = auto()
-    industries_positive_negative = auto()
-    companies_positive_negative = auto()
     news_category_count = auto()
     short_term_market_impacts = auto()
     long_term_market_impacts = auto()
@@ -171,8 +123,6 @@ class ChartFactory:
     @staticmethod
     def create_chart(key, data):
         chart_classes = {
-            AnalysisName.industries_positive_negative: IndustriesPositiveNegativeChart,
-            AnalysisName.companies_positive_negative: CompaniesPositiveNegativeChart,
             AnalysisName.news_category_count: NewsCategoryCount,
             AnalysisName.short_term_market_impacts: ShortTermMarketImpact,
             AnalysisName.long_term_market_impacts: LongTermMarketImpact,
