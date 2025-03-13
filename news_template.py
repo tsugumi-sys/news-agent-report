@@ -192,10 +192,12 @@ def create_news_report_page(date, report_data) -> st.Page:
                                 f"- {inventory['sector']}の在庫が不足する: (価格への影響: {impact_label(inventory['price_impact'])})"
                             )
                         else:
-                            raise ValueError(
-                                f"unsupported inventory status: {inventory["status"]}"
+                            # raise ValueError(
+                            #     f"unsupported inventory status: {inventory["status"]}"
+                            # )
+                            st.write(
+                                f"- {inventory['sector']}が{inventory["status"]}: (価格への影響: {impact_label(inventory['price_impact'])})"
                             )
-
                 ###
                 # 関連業界
                 ###
