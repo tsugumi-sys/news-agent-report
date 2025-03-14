@@ -13,7 +13,7 @@ class DataLoader:
 
     def get_sorted_dates(self):
         """Fetch and sort date directories in the given path, raise exception on invalid formats."""
-        date_pattern = re.compile(r"\d{4}-\d{2}-\d{2}")
+        date_pattern = re.compile(r"\d{4}-\d{2}-\d{2}.*")
         dates = []
         for entry in os.listdir(self.directory_path):
             if os.path.isdir(os.path.join(self.directory_path, entry)):
@@ -21,7 +21,7 @@ class DataLoader:
                     dates.append(entry)
                 else:
                     raise ValueError(
-                        f"Invalid directory name format: {entry}. Expected format: YYYY-MM-DD."
+                        f"Invalid directory name format: {entry}. Expected format: YYYY-MM-DD.*."
                     )
         return sorted(dates, reverse=True)  # Sort in descending order
 
