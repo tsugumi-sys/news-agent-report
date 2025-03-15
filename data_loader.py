@@ -31,7 +31,6 @@ class DataLoader:
         for date in self.dates:
             files = {
                 "news": f"{self.directory_path}/{date}/news.json",
-                "analysis": f"{self.directory_path}/{date}/analysis.json",
             }
             for key, file_path in files.items():
                 with open(file_path, "r", encoding="utf-8") as f:

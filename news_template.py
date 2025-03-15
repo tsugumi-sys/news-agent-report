@@ -26,7 +26,7 @@ def create_news_report_page(date, report_data) -> st.Page:
     """Creates a Streamlit Page instance for the news report.
 
     Args:
-        report_data: { 'news': {}, 'analysis': {}}
+        report_data: { 'news': {} }
     """
     chart_factory = ChartFactory()
 
