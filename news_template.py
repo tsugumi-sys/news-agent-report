@@ -79,8 +79,8 @@ def create_news_report_page(date, report_data) -> st.Page:
                 if len(judgments) > 0:
                     st.markdown("**投資判断**")
                     for judge in judgments:
-                        st.markdown(
-                            f"- [{judge['ticker']}を{judge['judgment']}]: {judge['reason']}"
+                        st.text(
+                            f"{judge['ticker']}を{judge['judgment']}: {judge['reason']}"
                         )
 
                 st.markdown("**ニュースのサマリ**")
