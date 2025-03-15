@@ -68,7 +68,7 @@ def create_news_report_page(date, report_data) -> st.Page:
             supply_demand = news_data["knowledges"].get(
                 "supply_demand_balance_change", {}
             )
-            judgement = news_data["knowledges"].get("judgment")
+            judgments = news_data["knowledges"].get("judgments").get("items")
 
             container = st.container(border=True)
             with container:
@@ -76,7 +76,15 @@ def create_news_report_page(date, report_data) -> st.Page:
                 st.write(f"🕒 Published: {news_info.get('published_date', 'Unknown')}")
                 st.write(f"🔗 [Read More]({news_data.get('url', '#')})")
 
-                st.markdown(f"`{judgement.get("judge")}`")
+                if len(judgments) > 0:
+                    st.markdown("**投資判断**")
+                    for judge in judgments:
+                        st.markdown(
+                            f"- [{judge['ticker']}を{judge['judgment']}]: {judge['reason']}"
+                        )
+
+                st.markdown("**ニュースのサマリ**")
+                st.text(news_info.get("news_summary"))
 
                 st.markdown("**ニュースの種類**")
                 st.text(

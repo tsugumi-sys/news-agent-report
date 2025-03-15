@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://www.spacedaily.com/reports/Spiral_Motion_of_Electrons_in_Organic_Semiconductors_Paves_the_Way_for_Advanced_Electronics_999.html",
+    "knowledges": {
+      "news_basic_information": {
+        "title": "Spiral Motion of Electrons in Organic Semiconductors Paves the Way for Advanced Electronics",
+        "published_date": "2025-03-14 00:00:00 +0000 (UTC)",
+        "usefulness": true,
+        "importance": 5,
+        "category": "技術革新"
+      },
+      "related_industries": {
+        "industries": []
+      },
+      "mentioned_companies": {
+        "items": []
+      },
+      "competitive_landscape_impact": {
+        "market_share_changes": [],
+        "technological_advantages": [
+          {
+            "company": "University of Cambridge",
+            "ticker": "N/A",
+            "advantage": "Innovative chiral semiconductor technology that enhances OLED displays and enables circularly polarized light."
+          },
+          {
+            "company": "Eindhoven University of Technology",
+            "ticker": "N/A",
+            "advantage": "Advanced technique for engineering organic semiconductors to direct electron motion in a spiral trajectory."
+          }
+        ],
+        "industry_structure_changes": null
+      },
+      "demand_change": {
+        "sector": "display technology/quantum computing",
+        "change": "increase"
+      },
+      "supply_change": {
+        "sector": "organic semiconductors",
+        "change": "increase"
+      },
+      "market_and_industry_impact": {
+        "short_term_impacts": [
+          {
+            "company": "University of Cambridge",
+            "ticker": "",
+            "impact": "increase",
+            "reason": "breakthrough in organic semiconductors leading to enhanced energy efficiency in displays"
+          },
+          {
+            "company": "Eindhoven University of Technology",
+            "ticker": "",
+            "impact": "increase",
+            "reason": "successful engineering of chiral semiconductors enhancing OLED technology"
+          }
+        ],
+        "long_term_directions": [
+          {
+            "sector": "display technology",
+            "expected_growth": "expansion",
+            "timeframe": "years"
+          },
+          {
+            "sector": "quantum computing/spintronics",
+            "expected_growth": "expansion",
+            "timeframe": "years"
+          }
+        ]
+      },
+      "inventory_status": {
+        "sector": "organic semiconductors",
+        "status": "shortage",
+        "price_impact": "increase"
+      },
+      "supply_demand_balance_change": {
+        "demand_changes": [
+          {
+            "sector": "advanced display technology/quantum computing",
+            "change": "increase"
+          }
+        ],
+        "supply_changes": [
+          {
+            "sector": "organic semiconductors",
+            "change": "increase"
+          }
+        ],
+        "inventory_statuses": [
+          {
+            "sector": "organic semiconductors",
+            "status": "shortage",
+            "price_impact": "increase"
+          }
+        ]
+      },
+      "short_term_market_impact": {
+        "company": "TAT-based OLEDs",
+        "ticker": "",
+        "impact": "increase",
+        "reason": "record-breaking efficiency and brightness leading to market interest"
+      },
+      "long_term_industry_direction": {
+        "sector": "organic semiconductors",
+        "expected_growth": "expansion",
+        "timeframe": "years"
+      },
+      "judgments": {
+        "items": []
+      }
+    }
+  }
+]
